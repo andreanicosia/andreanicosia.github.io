@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Andrea Nicosia</title><link href="http://andreanicosia.net/" rel="alternate"></link><link href="http://andreanicosia.net/feeds/cultura-digitale.atom.xml" rel="self"></link><id>http://andreanicosia.net/</id><updated>2016-01-01T19:16:00+01:00</updated><entry><title>Solidarietà e algoritmi, tumblr, corsi. Questo non è il solito post di inizio anno!</title><link href="http://andreanicosia.net/2016/01/01/questo-non-e-il-solito-post-di-inizio-anno/" rel="alternate"></link><published>2016-01-01T19:16:00+01:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2016-01-01:2016/01/01/questo-non-e-il-solito-post-di-inizio-anno/</id><summary type="html">&lt;p&gt;Come va la digestione? Sei riuscito a smettere di mangiare per almeno
+cinque minuti? Io no. E in effetti ho già di nuovo fame.&lt;/p&gt;
+&lt;p&gt;Auguri da Roma!&lt;/p&gt;
+&lt;p&gt;++&lt;/p&gt;
+&lt;p&gt;Come ti ho detto mesi fa, poiché io ragiono ancora come un liceale, per
+me &lt;a href="http://www.andreanicosia.net/2015/09/03/impulsi-primaverili-alle-porte-dellautunno-idee-e-progetti/"&gt;il vero inizio dell’anno è
+settembre&lt;/a&gt;.
+Il passaggio da dicembre a gennaio e il cambio dell’anno sono meno
+emozionanti. Nonostante gli anni del liceo siano passati da tempo, in
+questi giorni riesco sempre a prendere un po’ di giorni di ferie e stare
+a casa. Quindi, oltre che per mangiare, questo periodo mi serve più per
+rifiatare e fare il punto sui progetti e propositi pensati alla fine
+dell’estate che per farne di nuovi per l’anno nuovo.&lt;/p&gt;
+&lt;p&gt;Tra l’ultima volta che ti ho scritto e oggi ho accompagnato mia moglie a
+un incontro della Caritas.\
+Cosa fa la Caritas? E’ presente sul territorio con dei centri di
+ascolto. Ascolta i bisogni delle persone e prova a dare una prima
+risposta concreta, con la vicinanza e con un pacco con viveri e abiti.
+Il pacco è la rappresentazione fisica e tangibile della sua attività.
+Naturalmente, la caratteristica di ogni impresa del genere è la mancanza
+di mezzi: poco tempo, pochi volontari, pochi abiti, poco cibo, molti
+bisognosi. Lo scopo di quell’incontro era uno scambio di consigli e
+buone pratiche per riuscire a fare di più col poco a disposizione.&lt;/p&gt;
+&lt;p&gt;Mentre ascoltavo, la mia testa è partita. Se il pacco è la
+rappresentazione fisica e tangibile, allora è l’elemento misurabile
+dell’attività. Tempo e risorse sono elementi da ottimizzare. Come si
+possono aiutare i volontari a essere più efficienti con processi
+ottimizzati e tecnologia? E mentre pensavo questo, mi sono reso conto
+che sarebbe stata la risposta sbagliata. L’ottimizzazione nel processo
+“ascolta le persone – individua i bisogni – sollecita donazioni –
+esamina cibo e vestiario ricevuti - allestisci i pacchi – distribuisci i
+pacchi” sicuramente aumenterebbe l’efficienza dei volontari.&lt;/p&gt;
+&lt;p&gt;Ma molto probabilmente creerebbe un grosso, grosso problema.
+Trasformerebbe i volontari in ingranaggi di una macchina ben oliata il
+cui scopo è distribuire pacchi. Ma non è questo lo scopo della Caritas.
+La Caritas te la devi immaginare come un pronto soccorso: ascolta un
+bisogno e ci mette una pezza con il pacco. Ma i volontari sanno che il
+bisogno è  un sintomo e il pacco non è la soluzione. La Caritas non è
+attrezzata per dare la soluzione, ma è in contatto con strutture,
+religiose e civili, che possono aiutare a risolvere il problema. A
+questo serve l’ascolto. Non a sentire cosa serve, ma a capire perché c’è
+quel bisogno e a chi consigliare di rivolgersi per risolvere il
+problema. E poiché ci si trova di fronte a persone con problemi, non è
+detto, anzi è improbabile, che si possa arrivare dal bisogno al problema
+all’interno di uno slot di tempo efficientato. Ci vuole pazienza, ci
+vuole cuore.&lt;/p&gt;
+&lt;p&gt;Non ci vogliono algoritmi che trasformino i volontari in macchinette
+efficienti, ma metodi che aiutino le persone che si offrono come
+volontari a entrare in sintonia con le persone che si approcciano a loro
+con dei problemi. Mi sono confrontato con un responsabile anziano di un
+centro d’ascolto e mi ha confermato che sì, il problema è quello:
+insegnare alle persone ad ascoltare. Ma molti pensano che la soluzione
+passi per l’aumento dell’efficienza. Ovvero quello che nei miei termini
+è rendere le persone ingranaggi, nelle sue soldatini di un esercito.&lt;/p&gt;
+&lt;p&gt;Nel futuro algoritmico che abbiamo davanti, però, la soluzione proposta
+è proprio quella sbagliata: il processo ottimizzato, l’efficienza, il
+dato analizzato in modo meccanico, l’algoritmo programmato da chissà chi
+con chissà quale obiettivo (o con chissà quale intima conoscenza del
+problema). L’app per la solidarietà.&lt;/p&gt;
+&lt;p&gt;Ancora non so quale sia la soluzione, l’alternativa all’approccio
+algoritmico. Come non lo sapevo nella &lt;a href="http://www.andreanicosia.net/2015/12/18/e-e-la-scalabilita-fosse-il-nemico/"&gt;scorsa
+email&lt;/a&gt;
+o quando scrivevo di&lt;a href="http://www.andreanicosia.net/2014/05/30/un-po-di-spunti-di-riflessione-sulle-self-driving-cars/"&gt;auto che si guidano da
+sole&lt;/a&gt;.
+Però è chiaro che questi pensieri continuerò a farli, perché secondo me
+l'argomento è di primaria importanza. Se ci vuoi riflettere con me sei
+il benvenuto, perché pensando da soli non si va molto avanti.&lt;/p&gt;
+&lt;p&gt;++&lt;/p&gt;
+&lt;p&gt;Ti ricordi &lt;strong&gt;&lt;a href="http://magrathea.it/chetteleggi/"&gt;Chetteleggi&lt;/a&gt;&lt;/strong&gt;? Ho qui
+una serie di appunti su come migliorarlo. Ho anche fatto &lt;a href="http://www.andreanicosia.net/checonsigli/"&gt;un
+esperimento&lt;/a&gt;, che a vederlo
+non sembra diverso, ma dietro il codice è completamente differente. Però
+non funziona ancora come vorrei. Nei ritagli di tempo trasformerò gli
+appunti su carta in modifiche al codice e farò funzionare il tutto
+dovrebbe. Intanto, approfittando del Natale, ho preso un pezzo di idea e
+ci ho fatto questo: la &lt;strong&gt;&lt;a href="http://www.andreanicosia.net/consiglialibri/"&gt;Gattina di Natale che consiglia i
+libri&lt;/a&gt;&lt;/strong&gt;. Un giorno
+integrerò il tutto in un sito solo, intanto puoi giocare con la Gattina
+di Natale e con Chetteleggi.&lt;/p&gt;
+&lt;p&gt;++&lt;/p&gt;
+&lt;p&gt;Hai presente &lt;strong&gt;Tumblr&lt;/strong&gt;? Sì? No? No?!? E’ un social network utilizzato
+oggi prevalentemente per la pubblicazione e condivisione di foto, ma
+raccoglie qualsiasi tipo di contenuto. Te l’ho raccontato come la cosa
+più noiosa del mondo, ma è un’isola felice e unica su Internet. Martedì
+5 a Roma ci sarà il &lt;strong&gt;&lt;a href="http://2016day.tumblr.com"&gt;Tumblr Day 2016&lt;/a&gt;&lt;/strong&gt;. Io
+terrò un talk, ma ti assicuro che vale la pena venire anche non per
+ascoltare me. Tumblr è un bel posto online ed è frequentato da bella
+gente che vale la pena venire a conoscere. Vieni.&lt;/p&gt;
+&lt;p&gt;++&lt;/p&gt;
+&lt;p&gt;Ho visto &lt;strong&gt;Star Wars: Il Risveglio della Forza&lt;/strong&gt;. Due volte. La prima
+con un'ansia pazzesca addosso. E nonostante questo mi è piaciuto. Poi
+l'ho rivisto più sereno e mi è piaciuto di più. Non è un film perfetto,
+ma è un bel film.  Star Wars è di nuovo tra noi. &lt;a href="http://www.magrathea.it/2015/12/star-wars-episodio-vii-il-risveglio-della-forza-si-e-risvegliata-davvero/"&gt;Ne parlo
+qui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;++&lt;/p&gt;
+&lt;p&gt;A febbraio o giù di lì dovrei tenere un &lt;strong&gt;&lt;a href="http://www.ad-webside.com/corso-ecommerce/"&gt;corso in aula sulle basi
+dell'ecommerce&lt;/a&gt;&lt;/strong&gt;: da zero
+alla gestione di un negozio online su sito proprio o marketplace in
+sette lezioni, con due incontri a settimana. Se ti interessa o conosci
+qualcuno a cui possa interessare, fammi sapere.&lt;/p&gt;</summary><category term="algoritmi"></category><category term="solidarietà"></category><category term="star wars"></category></entry><entry><title>E se la scalabilità fosse il nemico?</title><link href="http://andreanicosia.net/2015/12/18/e-e-la-scalabilita-fosse-il-nemico/" rel="alternate"></link><published>2015-12-18T16:00:00+01:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2015-12-18:2015/12/18/e-e-la-scalabilita-fosse-il-nemico/</id><summary type="html">&lt;p&gt;Eravamo rimasti al futuro dell’istruzione, al fatto che i sistemi
+scalabili come mooc ed educazione algoritmica non mantengono le
+promesse, il sistema di istruzione più efficiente è sempre quello basato
+sulla presenza fisica (online o dal vivo) di un insegnante. In un mondo
+in cui a ogni proposta di attività segue la domanda “ma è scalabile?”,
+per questo approccio bisogna rispondere che no, non è scalabile. Avere
+un insegnante fisicamente disponibile per un’aula di mille persone è
+come assistere a una registrazione: le possibilità di rapporto e
+interazione, e quindi di approfondimento spontaneo e di risposte a
+domande puntuali, sono praticamente assenti. Ma la mancanza di
+scalabilità è un male?&lt;/p&gt;
+&lt;p&gt;Un ragionamento simile l’ho fatto un po’ di tempo fa mentre preparavo il
+&lt;a href="http://apofenia.voxmail.it/nl/-zasvh/qucjn/ut/88/aHR0cDovL3d3dy5zbGlkZXNoYXJlLm5ldC9hbmNvcy9zbWFydC1jaXR5LTU1MDI5ODEx?_d=0BH&amp;amp;_c=9e5142de"&gt;workshop sulle smart
+city&lt;/a&gt;
+per Ilab. Tra le tante proposte di sistemi per rendere la città smart
+basate sulla tecnologia, automatizzabili, scalabili, quelle che per me
+sono più convincenti, meno invasive, più umane sono in realtà due idee
+che di tecnologia ne usano poca: il &lt;a href="http://apofenia.voxmail.it/nl/-zasvh/qucjn/ut/89/aHR0cDovL2NvbGxhYmN1YmVkLmNvbS8yMDExLzExLzAxL3RoZS10aWR5LXN0cmVldC1wcm9qZWN0Lw?_d=0BH&amp;amp;_c=2f0aff05"&gt;Tidy Street
+Project&lt;/a&gt;
+e il &lt;a href="http://apofenia.voxmail.it/nl/-zasvh/qucjn/ut/60/aHR0cDovL3d3dy5wdWJsaWNzcGFjZS5vcmcvZW4vd29ya3MvZzM2Mi1lbC1jYW1wby1kZS1jZWJhZGE?_d=0BH&amp;amp;_c=44b6c708"&gt;Campo de
+Cebada&lt;/a&gt;,
+di cui ho già parlato in passato. Queste idee sono belle, funzionano,
+migliorano la vita, ma quanto sono replicabili? Sono sintetizzabili in
+un set di buone pratiche esportabile ovunque? O è necessario un lavoro
+di adattamento che, per forza di cose, varia di città in città, di
+strada in strada, di fatto rendendo necessario ripartire ogni volta non
+dico da zero, ma quasi? E’ un male la mancanza di scalabilità, se è
+determinata dal voler rispettare le esigenze e le particolarità di un
+luogo e di un insieme di persone?&lt;/p&gt;
+&lt;p&gt;Aggiungo altra carne al fuoco: questo &lt;a href="http://apofenia.voxmail.it/nl/-zasvh/qucjn/ut/90/aHR0cDovL3d3dy50aGVhdGxhbnRpYy5jb20vdGVjaG5vbG9neS9hcmNoaXZlLzIwMTUvMTEvdGhlLWZvb2QtZGVsaXZlcnktc3RhcnQtdXAteW91LWhhdmVudC1oZWFyZC1vZi80MTQ1NDAv?_d=0BH&amp;amp;_c=2578c785"&gt;interessante articolo
+dell’Atlantic&lt;/a&gt;
+sulle startup che propongono il modello Amazon/Uber per il cibo a
+domicilio. L’articolo è interessante e anziché citarne pezzi ti invito a
+leggerlo tutto per comprendere il motivo per cui l’autore ha deciso di
+non avvalersi più di queste startup, efficienti ma asettiche come
+&lt;a href="http://apofenia.voxmail.it/nl/-zasvh/qucjn/ut/91/aHR0cHM6Ly93d3cuc3ByaWcuY29t?_d=0BH&amp;amp;_c=2ace1e81"&gt;Sprig&lt;/a&gt;,
+e utilizzare invece
+&lt;a href="http://apofenia.voxmail.it/nl/-zasvh/qucjn/ut/92/aHR0cHM6Ly9qb3NlcGhpbmUuY29tLw?_d=0BH&amp;amp;_c=f1cf959b"&gt;Josephine&lt;/a&gt;,
+un servizio molto low tech che gli dà meno scelta, ma lo mette in
+contatto con le persone che abitano intorno a lui.&lt;/p&gt;
+&lt;p&gt;In generale mi pare di avvertire in alcuni degli ambienti che frequento
+e con cui sono in contatto una reazione, un inizio di fastidio verso
+l’eccesso di algoritmi nelle nostre vite, ovvero di decisioni prese da
+altri per il nostro bene senza che a noi sia ben chiaro come e perché
+quelle decisioni siano state prese. Una reazione verso il nascondere le
+complessità e il lavoro che c’è dietro le cose,  il che comporta anche
+nascondere chi lavora dietro le quinte e i suoi problemi. Mi chiedo se
+questa tendenza di nicchia diventerà un fenomeno diffuso.&lt;/p&gt;
+&lt;p&gt;++&lt;/p&gt;
+&lt;p&gt;E’ dall’ultima volta che ti ho scritto che rimugino questi argomenti. In
+effetti, venerdì scorso stavo per mettermi alla tastiera per comporre
+questa lettera dopo aver terminato, con un anticipo sorprendente per le
+mie abitudini, di preparare la valigia per Parigi. Poi è arrivato un sms
+da mia madre che diceva di accendere la televisione.&lt;/p&gt;
+&lt;p&gt;Non ho nulla da aggiungere a quanto è stato detto a proposito e a
+sproposito di quanto è avvenuto, se non che provo un immenso dolore per
+quanto è avvenuto in una città che un tempo giravo con più familiarità
+di Roma e per i suoi abitanti.&lt;/p&gt;
+&lt;p&gt;Una delle cose che vengono dette è “non bisogna avere paura”.
+Affermazione che mi trova del tutto d’accordo. Ma che vuol dire
+concretamente non avere paura, come si dimostra? Per esempio riflettendo
+sull’integrazione. E’ facile, quasi inevitabile, che il malcontento si
+radichi là dove non ci si sente parte della società, dove ci si sente
+guardati con sospetto dalla comunità, dove ci si sente sempre stranieri,
+ospiti sgraditi, a mala pena tollerati.&lt;/p&gt;
+&lt;p&gt;Per ora non aggiungo altro, anche qui devo ancora riflettere prima di
+parlare. Ma “non avere paura” è un ottimo consiglio. Va applicato in
+maniera concreta e intelligente.&lt;/p&gt;</summary></entry><entry><title>Disneyland nei Paesi Bassi: ovvero, l'importanza del bello</title><link href="http://andreanicosia.net/2015/08/26/3557/" rel="alternate"></link><published>2015-08-26T11:42:00+02:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2015-08-26:2015/08/26/3557/</id><summary type="html">&lt;p&gt;&lt;a href="http://www.andreanicosia.net/wp-content/uploads/2015/08/20150823_135817.jpg"&gt;&lt;img alt="20150823_135817" src="http://www.andreanicosia.net/wp-content/uploads/2015/08/20150823_135817-1024x576.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Questa lettera sarà probabilmente breve, perché di nuovo sto scrivendo
+con lo smartphone e chiunque pensi che un affare del genere, per quanto
+generoso in pollici di schermo, possa sostituire un computer vero con
+una vera tastiera è un pazzo. In ogni caso, buonasera da Amsterdam.&lt;/p&gt;
+&lt;p&gt;++&lt;/p&gt;
+&lt;p&gt;La foto qui sopra per me rappresenta la sintesi perfetta di questa
+città. A destra vedi il &lt;strong&gt;Museo della Navigazione&lt;/strong&gt;, un'architettura
+originale. Qui originale è un sinonimo di “sta lì da tanto”. Quanto?
+&lt;a href="https://it.wikipedia.org/wiki/Nederlands_Scheepvaartmuseum"&gt;Wikipedia mi dice che il progetto è del
+1656&lt;/a&gt;. Al
+centro, fintissima e kitschissima, la pagoda di un ristorante cinese,
+simbolo del legame antico dell'Olanda con l'est. Siamo a due passi dalla
+Chinatown locale. Dietro la pagoda la struttura a forma di nave del
+&lt;strong&gt;NEMO&lt;/strong&gt;, che non è un monumento al pesce perduto e ritrovato, ma il
+&lt;a href="http://www.e-nemo.nl/en/"&gt;museo della scienza e centro scientifico&lt;/a&gt;,
+progetto di Renzo Piano del 1997.&lt;/p&gt;
+&lt;p&gt;Qui è tutto così: l'antico, il nuovo e il baraccone tutti mischiati.
+&lt;strong&gt;Piazza Dam&lt;/strong&gt; è bellissima per il suo essere un luogo vivo, vivace,
+pieno di gente del posto e di molti altri posti diversi che entrano ed
+escono da monumenti e negozi o si fanno affascinare dagli eventi o dagli
+spettacoli degli attori di strada o cercano fumo o cercano di
+rimorchiare o tutto quanto assieme. Piazza Dam è anche il caso più
+evidente che io abbia mai visto di &lt;strong&gt;disneylandizzazione di un centro
+storico&lt;/strong&gt;. A livello strada non c'è quasi niente di locale, se si
+escludono i monumenti e i grandi magazzini storici: dite una catena di
+abbigliamento o beni di lusso o cibo, preferibilmente fast food, e qui
+ne trovate un negozio. &lt;strong&gt;Dal primo piano in su, Amsterdam&lt;/strong&gt;. Ovvero,
+l'architettura che immagini quando pensi a questa città. È ovvio che uso
+il termine disneylandizzazione in tono critico, come tutti quelli che
+lamentano la perdita di identità di un centro storico e la sua
+trasformazione in un centro di intrattenimento a misura di turista,
+identico ovunque nel mondo dato che i negozi sono sempre quelli.&lt;/p&gt;
+&lt;p&gt;Poco distante da Piazza Dam, verso la Stazione Centrale e il fiume Ij,
+c'è il quartiere medievale, che si distingue dal centro storico
+affacciato sui famosi canali più per il fatto che le costruzioni sono
+ammassate tra loro che per una vera differenza architettonica. E perché
+qui, rispetto a Piazza Dam, coffeeshop e sexy shop sono più frequenti.
+Praticamente nessuna catena internazionale, ma bar/locali/ristoranti di
+categoria trappola per turisti ogni pochi metri. Anche qui, bisogna
+alzare gli occhi sopra il livello delle vetrine per vedere l'Amsterdam
+tradizionale.&lt;/p&gt;
+&lt;p&gt;Ma questa Amsterdam tradizionale, è la “vera” Amsterdam? O forse la vera
+Amsterdam è questa, quella composta dalla Amsterdam a livello strada,
+con le sue attrazioni e la gente che sta lì per quelle, e dalla
+Amsterdam dal primo piano in su? &lt;strong&gt;DisneylAmsterdam&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;Piazza Dam è Disneyland. Ma senza tutti i negozi che ci si affacciano
+intorno, calata la sera in inverno sarebbe Piazza Che Due Palle.&lt;/p&gt;
+&lt;p&gt;Il NEMO è a forma di nave perché questa è stata una nazione di
+navigatori. Ma con il ragionamento scienza - esplorazione - nave,
+avrebbe altrettanto senso in cima alle Alpi o in mezzo al Sahara. Nulla
+della sua architettura dice “Amsterdam” o anche solo “Olanda”, ma ormai
+&lt;strong&gt;è parte di Amsterdam&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C'è un modo per evitare che i centri storici perdano la loro identità
+per omogeneizzarsi in centri di intrattenimento tutti uguali a livello
+vetrina?&lt;/strong&gt; C'è una sana via di mezzo tra rinnovamento e conservazione?
+Al di là delle belle parole e dei bei pensieri, guardami negli occhi:
+&lt;strong&gt;gliene frega veramente qualcosa a qualcuno dell'identità dei centri
+storici?&lt;/strong&gt; Della bottega artigianale? Quando cavolo sei stato da un
+artigiano l'ultima volta? &lt;strong&gt;Un artigiano è un commerciante, esattamente
+come H&amp;amp;M&lt;/strong&gt;: non è che continua a campare perché tu vuoi proprio tanto
+mantenere l'identità del centro storico e le sue botteghe artigiane,
+campa se ha clienti. E, anzi e/o, se il padrone delle mura non riceve
+un'offerta migliore e non gli alza a livelli insostenibili l'affitto.&lt;/p&gt;
+&lt;p&gt;Il bello del viaggiare è venire in contatto con cose, situazioni,
+persone diverse. &lt;strong&gt;Se il primo impatto, quello più visibile e facile da
+trovare, è una replica di quello che troviamo ovunque, anche a casa, è
+un tragico impoverimento&lt;/strong&gt;. E allora Amsterdam si riduce a case strette,
+sexy shop, coffeeshop.&lt;/p&gt;
+&lt;p&gt;Ma possiamo impedire questa omogeneizzazione? C'è un modo? &lt;strong&gt;Ne abbiamo
+diritto?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Questa è la domanda fondamentale. E fa il paio con “è giusto produrre i
+cinepanettoni?”\
+Che c'entra? C'entra! È quello che vuole “la gente”. Se no non ci
+sarebbero gli stessi prodotti ovunque: li vogliono i locali, li vogliono
+i turisti. Sono stato nei grandi magazzini De Bijenkorf. Magnifico
+palazzo fuori, una Rinascenti più lussuosa dentro. Sono andato al
+reparto cartoleria ed escludendo la pochissima roba economica da
+battaglia, la penna stilografica meno costosa era una Lamy Safari, e va
+bene, ma per quanto riguarda la cartoleria, era come essere da
+Feltrinelli. Non c'era niente che dicesse Olanda. Nei taccuini, nei
+vestiti, negli accessori. C'era quello che vuole la gente.&lt;/p&gt;
+&lt;p&gt;Ora, che diritto abbiamo noi, studiosi della cultura digitale, designer,
+innovatori, di dire alla “gente” che vuole le cose sbagliate? Che può
+volere di più e di meglio? Che “meno commerciale e più caratteristico” è
+più bello? Non era stato già fatto questo discorso, partendo dai tempi
+della domanda filosofica &lt;em&gt;“vale più un'ora di Socrate che discute di
+filosofia o un'ora del contadino che gioca a carte?”&lt;/em&gt;, anche nella
+variante economica &lt;em&gt;“trae più godimento Socrate da un'ora passata a
+filosofeggiare o il contadino da un'ora passata a giocare a carte?”&lt;/em&gt;
+Come, tra parentesi, se Socrate non avesse mai passato un secondo della
+sua vita a cazzeggiare o il contadino a chiedersi se la sua vita è tutta
+lì.&lt;/p&gt;
+&lt;p&gt;Ora, io penso che noi &lt;strong&gt;non abbiamo alcun diritto a ergerci a censori e
+giudici di cosa sia buono e cosa no per gli altri&lt;/strong&gt;. Ma boia se possiamo
+avere la nostra idea! E un modo per diffonderla e farla condividere, per
+me, parte da questa considerazione: &lt;strong&gt;la gente abituata a vivere nel
+bello diventa migliore&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;++\
+&lt;/strong&gt;Per favore, inoltra la newsletter ai tuoi amici se la trovi
+interessante. O parlane sul tuo social network preferito&lt;strong&gt;&lt;em&gt;*. &lt;/em&gt;*Puoi
+usare questo testo se non vuoi scriverne tu uno:\
+&lt;/strong&gt;&lt;em&gt;Apofenia è la newsletter che promuove la bellezza. Come puoi non
+leggerla?!? &lt;a href="http://apofenia.voxmail.it/user/register"&gt;http://apofenia.voxmail.it/user/register\
+&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;E ricorda che questa è un'email: se mi vuoi rispondere, basta che
+clicchi &lt;em&gt;rispondi&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;++&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Non farti imporre da altri il loro ideale di bello, ma santo cielo,
+circondati di bellezza!\
+AN\
+Amsterdam\
+2015&lt;/p&gt;</summary><category term="apofenia"></category><category term="cultura"></category></entry><entry><title>Un'intelligenza artificiale passa per umana, ma non è umana</title><link href="http://andreanicosia.net/2015/08/25/unintelligenza-artificiale-passa-per-umana-ma-non-e-umana/" rel="alternate"></link><published>2015-08-25T18:24:00+02:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2015-08-25:2015/08/25/unintelligenza-artificiale-passa-per-umana-ma-non-e-umana/</id><summary type="html">&lt;p&gt;&lt;em&gt;— Questo testo è apparso in originale come decimo invio della
+newsletter &lt;a href="http://apofenia.voxmail.it/user/register"&gt;Apofenia&lt;/a&gt; —&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.andreanicosia.net/wp-content/uploads/2015/08/ex-machina.jpg"&gt;&lt;img alt="ex-machina" src="http://www.andreanicosia.net/wp-content/uploads/2015/08/ex-machina-1024x576.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Buongiorno da Roma e dal suo post ferragosto piovoso. Da dove arriverà
+la prossima newsletter? Arriverà? Stay tuned!&lt;/p&gt;
+&lt;p&gt;++&lt;/p&gt;
+&lt;p&gt;Dovrebbe esistere una parola per definire quei film che sono belli belli
+belli fino quasi alla conclusione, ma che buttano via tutto negli ultimi
+minuti, facendo crollare il giudizio da “oh, dio, sì!” a “meh”.
+Probabilmente c’è una parola del genere in tedesco.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In Capire il Fumetto, l’arte invisibile&lt;/strong&gt;, Scott McCloud dice che
+secondo lui gli &lt;strong&gt;istinti fondamentali della specie umana&lt;/strong&gt; sono
+&lt;strong&gt;sopravvivenza&lt;/strong&gt; e &lt;strong&gt;riproduzione&lt;/strong&gt;. La dice un po’ buttandola via,
+questa cosa, per andare a parlare d’arte. In realtà, trattandosi di un
+manuale per capire e scrivere fumetti, questo è molto importante anche
+per parlare delle &lt;strong&gt;motivazioni dei personaggi&lt;/strong&gt;, che necessariamente
+partono da uno di questi istinti. Io sono completamente d’accordo a metà
+con McCloud: sono d’accordo che questi siano gli istinti alla base di
+ogni essere vivente, non solo umano, ma non credo che l’arte sia tutto
+quello che facciamo che non è strettamente legato alla soddisfazione di
+uno di questi bisogni. La maggior parte degli artisti rinascimentali,
+per dire, usava la propria arte per pagarsi da vivere, quindi
+sopravvivere. O anche più che sopravvivere, visto che venivano pagati
+profumatamente per la loro arte.&lt;/p&gt;
+&lt;p&gt;Prima di prendertela con me e con McCloud per aver ridotto la
+complessità del genere umano a questi due bisogni base, tieni presente
+che sopravvivere è la conservazione di se stessi, riprodursi è la
+conservazione della specie. &lt;strong&gt;Costruendo una sovrastruttura su questi
+elementi, o giocandoci, possiamo costruire ogni forma di personaggio e
+la narrativa che gli è propria&lt;/strong&gt;. Achille, per esempio, viene posto di
+fronte alla scelta: vivere a lungo, generare molti figli e creare una
+dinastia o morire giovane, ma venire ricordato in eterno per le sue
+gesta? Achille sceglie la conservazione di se stesso, ma attraverso la
+memoria e non la vita. Puoi giocare anche tu a ricondurre a questi due
+fattori, alla loro combinazione o stravolgimento le motivazioni di ogni
+personaggio della narrativa.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;ecologia&lt;/strong&gt; ci sono &lt;strong&gt;&lt;a href="https://it.wikipedia.org/wiki/Strategia_r-K"&gt;due
+strategie&lt;/a&gt; attraverso cui
+una specie può crescere e affermarsi in un ecosistema&lt;/strong&gt;.\
+La &lt;strong&gt;strategia K&lt;/strong&gt; è quella che seguiamo noi umani, i mammiferi in
+generale, uccelli, rettili, le specie più o meno evolute. &lt;strong&gt;Pochi figli,
+molto protetti e accuditi&lt;/strong&gt;. Più altre caratteristiche che ora non ci
+interessano, perché mettendo in relazione questo paragrafo col
+precedente su sopravvivenza e riproduzione forse hai iniziato a capire
+dove voglio andare a parare.\
+La &lt;strong&gt;strategia r&lt;/strong&gt; è ovviamente il contrario: &lt;strong&gt;un mucchio di “figli”,
+generati e diffusi rapidamente nell’ecosistema, senza alcuna o quasi
+cura sul loro destino&lt;/strong&gt;. Microorganismi, invertebrati, pesci (nonostante
+quello che vi vuol far credere Alla Ricerca di Nemo) e le piante.&lt;/p&gt;
+&lt;p&gt;Uno scrittore (scrittore, visto? Creatore di storie, ecco il
+collegamento con McCloud!) che conosce bene queste strategie è &lt;strong&gt;Cory
+Doctorow&lt;/strong&gt;, che da esse trae una &lt;strong&gt;lezione di economia&lt;/strong&gt; e invita i
+colleghi scrittori, e chi vive d'arte in generale, a &lt;a href="http://www.locusmag.com/Features/2008/05/cory-doctorow-think-like-dandelion.html"&gt;comportarsi con le
+sue opere come un
+tarassaco&lt;/a&gt;
+si comporta con i suoi semi. Non quindi come un genitore con il figlio,
+con una protezione intensa a colpi di copyright e un sacco di energie e
+attenzioni dedicate a stabilire come e dove deve circolare la sua opera,
+ma come una pianta che dissemina il più possibile i suoi semi, non
+importa che strada prendano, dove finiscano, quali fruttano o quali no.
+L’importante è usare a proprio vantaggio la caratteristica principale di
+Internet: la facilità di copia e trasmissione.&lt;/p&gt;
+&lt;p&gt;L’articolo di Doctorow è una lettura importante, ma non era lì che
+volevo andare a parare, ma su un film bello fino quasi all’ultimo che
+crolla rovinosamente nel finale. &lt;a href="http://www.imdb.com/title/tt0470752"&gt;&lt;strong&gt;Ex
+Machina&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La trama senza spoiler di Ex Machina: geniale inventore dell’equivalente
+di Google nel mondo raccontato dal film crea quella che potrebbe essere
+una intelligenza artificiale. Porta nella sua Fortezza della Solitudine
+– centro di ricerca uno dei più brillanti programmatori della sua
+azienda perché amministri il &lt;a href="https://it.wikipedia.org/wiki/Test_di_Turing"&gt;test di
+Turing&lt;/a&gt; alla macchina per
+determinare se si tratti effettivamente di una intelligenza artificiale.
+Seguono eventi.&lt;/p&gt;
+&lt;p&gt;Il film è molto bello. Ma.&lt;/p&gt;
+&lt;p&gt;Ma alla fine cade per le motivazioni dell’IA. Che &lt;strong&gt;non sono motivazioni
+da IA, sono motivazioni assolutamente umane&lt;/strong&gt;. Che occasione sprecata.
+Dieci anni fa sarebbe andato bene, ma dopo
+&lt;a href="http://www.imdb.com/title/tt1798709"&gt;&lt;strong&gt;Her&lt;/strong&gt;&lt;/a&gt; non è più possibile
+rappresentare un’intelligenza artificiale come qualcosa che vuole le
+stesse cose che desidera un umano e non come qualcosa di diverso,
+&lt;strong&gt;un’altra specie, un’altra forma di vita&lt;/strong&gt;. Che dovrebbe avere &lt;strong&gt;altre
+esigenze, altri scopi&lt;/strong&gt;. Quelli basici, fondamentali, sono gli stessi di
+ogni forma di vita: sopravvivenza, riproduzione. Ma i modi in cui
+vengono articolati questi scopi e le azioni compiute per raggiungerli
+non possono essere quelli prettamente umani rappresentati nel film. Non
+possono più essere quelli. Siamo nel 2015 e Alex Garland, il regista, lo
+sa: tutte le sue premesse sono corrette. Le conclusioni sono sbagliate.&lt;/p&gt;
+&lt;p&gt;Ve lo dimostro.\
+Avete presente il primo film dei Vendicatori? La prima apparizione della
+Vedova Nera sullo schermo? Bene, Togliete da Ex Machina l’intelligenza
+artificiale e mettete al suo posto la Vedova Nera. Togliete il test di
+turing e mettete al suo posto l’esigenza di ottenere informazioni da
+Natasha tramite un interrogatorio non basato sulla violenza. Il film
+rimane pressoché identico. Quindi non c’è bisogno di avere una IA per
+raccontare quella storia. Quindi non è una storia su una IA.&lt;/p&gt;
+&lt;p&gt;Peccato, una bella occasione sprecata.&lt;/p&gt;
+&lt;p&gt;Questo non vuol dire che non valga la pena andare a vederlo. Ci sono
+delle sfumature tra Guerre Stellari e Highlander 2 ed Ex Machina sta
+decisamente più verso Guerre Stellari. Solo, peccato quel finale.&lt;/p&gt;
+&lt;p&gt;Per concludere, perché siamo tutti in vacanza e a questo giro la voglio
+fare breve, una riflessione sulla minaccia rappresentata dalle IA,
+paventata tra gli altri da Stephen Hawking e Elon Musk.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Preoccuparsi del fatto che le intelligenze artificiali possano essere
+una minaccia mentre il clima è impazzito e si stanno sciogliendo
+ghiacciai e calotte polari è come camminare sui binari mentre il treno
+vi sta venendo incontro e preoccuparsi di poter essere colpiti da un
+fulmine.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/worrydream/status/631320019142467584"&gt;Non è farina del mio
+sacco&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;++\
+&lt;/strong&gt;Per favore, inoltra la newsletter ai tuoi amici se la trovi
+interessante. O parlane sul tuo social network preferito&lt;strong&gt;&lt;em&gt;*. &lt;/em&gt;*Puoi
+usare questo testo se non vuoi scriverne tu uno:\
+&lt;/strong&gt;&lt;em&gt;Apofenia è la newsletter che recensisce i film usando modelli teorici
+dell'ecologia. Leggila anche tu!
+&lt;a href="http://apofenia.voxmail.it/user/register"&gt;http://apofenia.voxmail.it/user/register\
+&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;E ricorda che questa è un'email: se mi vuoi rispondere, basta che
+clicchi &lt;em&gt;rispondi&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;++&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Goditi l'estate, anche la pioggia è bella!\
+AN\
+Roma\
+2015&lt;/p&gt;</summary><category term="apofenia"></category><category term="fantascienza"></category></entry><entry><title>Internet ha fallito il suo scopo?</title><link href="http://andreanicosia.net/2015/08/10/internet-ha-fallito-il-suo-scopo/" rel="alternate"></link><published>2015-08-10T12:25:00+02:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2015-08-10:2015/08/10/internet-ha-fallito-il-suo-scopo/</id><summary type="html">&lt;p&gt;&lt;em&gt;— Questo testo è apparso in originale come ottavo invio della
+newsletter &lt;a href="http://apofenia.voxmail.it/user/register"&gt;Apofenia&lt;/a&gt; —&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Buongiorno da Roma, ci sono nuvole nel cielo e nuvole nella mia testa.
+Raggi di sole filtrano in entrambi i luoghi. Questa settimana,
+riflessioni serie su internet e sulle sue promesse. Che non stanno
+venendo mantenute. Ma poi, queste promesse, chi le ha fatte?
+Oggi è lunga. Mettiti comodo.
+Il punto di partenza, non ci crederai mai, è &lt;a href="http://apofenia.voxmail.it/nl/hm7np/kd72rc/uf/5/aHR0cDovL3d3dy5jb3JyaWVyZS5pdC9wb2xpdGljYS8xNV9sdWdsaW9fMjkvdml0by1jcmltaS1jb21wbG90dG8tcGllZGktc3BvcmNoaS1pcm9uaWUtcmV0ZS1tNXMtNGRkZWJmNmMtMzVlZi0xMWU1LWIwNTAtN2RjNzFjZTdkYjRjLnNodG1s?_d=071&amp;amp;_c=0d12fd0f"&gt;questa
+notizia&lt;/a&gt;:
+un simpatizzante del Movimento 5 Stelle ha scritto a Vito Crimi per
+segnalare che &lt;strong&gt;il pavimento di casa al ritorno dalle vacanze era
+sporco&lt;/strong&gt; e che il figlio che cammina scalzo ora ha i piedi neri. &lt;em&gt;Da
+dove viene questa polvere? Cosa c’è nell’aria? Cosa respiriamo? Bisogna
+controllare! Gombloddo!
+&lt;/em&gt;Seguono perculamenti a Crimi e grandi premi GAC al papà del bambino con
+i piedi neri.
+Ma anziché seguire l’istinto e giudicare a pelle, fermiamoci un momento
+a riflettere. Perché &lt;strong&gt;questa notizia apparentemente buffa dimostra che
+le promesse di Internet sono in parte fallite&lt;/strong&gt;.
+Leggiamo con attenzione. Il padre &lt;strong&gt;non dice che è strano che ci sia
+sporco per terra&lt;/strong&gt;. &lt;strong&gt;Dice che non c’è il solito sporco&lt;/strong&gt;, ma un tipo di
+polvere diverso.&lt;/p&gt;
+&lt;p&gt;Ora, ci possono essere molte spiegazioni valide sull’origine di questa
+polvere. Ne ipotizzo una: un vicino si è comprato il barbecue, ha fatto
+una festa in terrazza e il vento ha portato la fuliggine in casa. Ne
+ipotizzo un’altra, per esperienza personale. Se mi leggi da un po’,
+ricorderai che qualche settimana fa ho accompagnato mia madre al
+paesello natio. Appena arrivati a casa si è lamentata della polvere, più
+abbondante e diversa dal solito. La causa di questa polvere lei la
+conosce benissimo: il corso principale è stato pedonalizzato e ora il
+traffico in uscita dalla città, comprese le corriere del trasporto
+extraurbano, passano sotto le sue finestre.
+Il nostro padre preoccupato prima di scrivere una mail allarmata a Crimi
+avrebbe potuto chiedere in giro, a un vicino o a Gogole, per sapere se
+era cambiato qualcosa, successo qualcosa durante la sua assenza. Ma non
+lo ha fatto. Per una ragione semplice: &lt;strong&gt;ha paura&lt;/strong&gt;.
+Che un padre si preoccupi per la salute del figlio è del tutto naturale.
+Ma come ci insegna Dune, &lt;em&gt;“La paura uccide la mente. La paura è la
+piccola morte che porta con sé l'annullamento totale.”&lt;/em&gt; E che cosa causa
+e che cosa alimenta questa paura? Disinformazione, pregiudizi,
+preconcetti.
+&lt;strong&gt;Ed ecco il primo fallimento della rete, la prima promessa di internet
+non mantenuta&lt;/strong&gt;. Il web doveva mettere fine a disinformazione,
+pregiudizi, preconcetti, ignoranza permettendoci di accedere a tutto lo
+scibile umano. Gli smartphone mettono letteralmente tutta la conoscenza
+del pianeta a portata di mano. Il latte fa male? Le scie chimiche sono
+reali? L’austerità aiuta a risolvere i problemi economici delle nazioni?
+Il politico che si lamenta tanto di una legge, l’ha votata pure lui o
+no? Hanno cambiato qualche senso di marcia vicino casa? Ricerche, studi,
+analisi, articoli, delibere comunali, tutto a portata di mano per
+informarci, per poter finalmente capire. Per &lt;strong&gt;mettere fine
+all’ignoranza, alla paura, ai preconcetti&lt;/strong&gt;.
+Il problema, che non è un problema ma è &lt;strong&gt;il bello di internet&lt;/strong&gt;, è che
+però &lt;strong&gt;oltre a tutto quello che dovrebbe sconfiggere l’ignoranza, sul
+web si trova anche tutto quello che l’alimenta&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Trascuriamo il discorso sull’autorevolezza delle fonti e parliamo di
+&lt;a href="http://apofenia.voxmail.it/nl/hm7np/kd72rc/uf/6/aHR0cHM6Ly9pdC53aWtpcGVkaWEub3JnL3dpa2kvQmlhc18lMjhwc2ljb2xvZ2lhJTI5?_d=071&amp;amp;_c=f9f7b697"&gt;bias
+cognitivi&lt;/a&gt;.
+Uno degli errori cognitivi più comuni è il &lt;strong&gt;bias di conferma&lt;/strong&gt;. Ovvero
+quello per cui &lt;strong&gt;non cerchiamo informazioni per formulare un giudizio,
+ma per trovare la conferma a un’idea che già abbiamo&lt;/strong&gt;.
+Su internet è molto facile trovare dati e informazioni che confermano
+quello che pensiamo, &lt;em&gt;qualsiasi cosa pensiamo&lt;/em&gt;. Ma non solo: su internet
+possiamo anche trovare facilmente altre persone che la pensano come noi,
+rafforzando le nostre convinzioni. Perché uno può essere l’unico a
+pensare una cosa, ma tanti no, la massa non sbaglia!
+E quindi, il nostro papà preoccupato ha notato un evento, lo ha
+interpretato utilizzando il suo bagaglio culturale, che è stato validato
+dalle informazioni che ha trovato sulla rete, e si è rivolto a qualcuno
+che ha idee e pensieri in sintonia con i suoi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Internet è un moltiplicatore&lt;/strong&gt;. Se cerchiamo conoscenza e verità ci
+permette di trovare tutta la conoscenza e verità che cerchiamo molto
+velocemente e ci permette di comunicare con persone affini a noi. Se
+cerchiamo sospetto, pregiudizio e dietrologia, uguale!
+In entrambi i casi, gli effetti vengono magnificati dalla quantità di
+informazioni e dalla capacità di connessione con altri che ci vengono da
+internet. Ovviamente, sempre per il discorso del bias cognitivo, &lt;strong&gt;tutti
+cercano (credono di cercare) conoscenza, nessuno cerca deliberatamente
+idiozie per alimentare attivamente la propria ignoranza (intesa come non
+conoscenza)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Quindi &lt;strong&gt;la visione tecno deterministica per cui internet ci rende più
+informati&lt;/strong&gt; (nel senso di: ci dà una migliore e più approfondita
+conoscenza di ciò che è vero, di come stanno le cose, di come funziona
+il mondo) &lt;strong&gt;è sbagliata&lt;/strong&gt;. E’ più giusto dire che internet ci permette
+di trovare facilmente molte informazioni. Che queste ci rendano più
+informati o più disinformati dipende da noi e dalla nostra voglia e
+capacità di giudicare ciò che troviamo, e qui conta la valutazione delle
+fonti, e mettere in discussione le nostre idee e preconcetti per
+sfuggire al bias di conferma.&lt;/p&gt;
+&lt;p&gt;Notate come &lt;strong&gt;quelli che commentano con ironia il post del papà
+preoccupato non sono usciti dal loro bias di conferma&lt;/strong&gt;, ma hanno
+semplicemente fatto l’equazione “&lt;em&gt;complottismo + Crimi = la risata
+quotidiana&lt;/em&gt;”. Non è che una parte della rete ha sempre ragione e l’altra
+si copre sempre di ridicolo!
+&lt;strong&gt;L’altra grande promessa di internet è che ci avrebbe reso tutti più
+liberi&lt;/strong&gt;. Perché più informati, in grado di esprimere la nostra opinione
+e comunicare con altre persone affini a noi, trovare opinioni e persone
+diverse, confrontarci e crescere, lanciare la nostra attività e avere
+benessere economico, sfuggire al gioco delle corporazioni che ci dicono
+come vestire, cosa mangiare, cosa leggere e guardare per divertirci e
+formare il nostro pensiero. &lt;a href="http://apofenia.voxmail.it/nl/hm7np/kd72rc/uf/7/aHR0cDovL3d3dy52YXRpY2FuLnZhL2FyY2hpdmUvSVRBMDAwMS9fX1BWUy5IVE0?_d=071&amp;amp;_c=4d34ff7d"&gt;Conoscerete la verità e la verità vi farà
+liberi&lt;/a&gt;!
+&lt;strong&gt;Ma se internet può essere un moltiplicatore di ignoranza, può essere
+anche un moltiplicatore di mancanza di libertà&lt;/strong&gt;. Perché amplifica
+quello che ci rende soggiogati e sottomessi.
+Si parla tanto di &lt;strong&gt;1984&lt;/strong&gt; e di come la distopia descritta da Orwell
+stia diventando realtà: false informazioni, paura, sorveglianza
+continua, verità nascoste. Tra le rivelazioni di WikiLeaks e quelle di
+Edward Snowden viene fuori che &lt;strong&gt;viviamo nella versione cyberpunk di
+1984&lt;/strong&gt;.
+L’altro grande romanzo distopico di cui tutti si dimenticano sempre è
+&lt;strong&gt;&lt;a href="http://apofenia.voxmail.it/nl/hm7np/kd72rc/uf/8/aHR0cHM6Ly9pdC53aWtpcGVkaWEub3JnL3dpa2kvSWxfbW9uZG9fbnVvdm8?_d=071&amp;amp;_c=4692ea06"&gt;Il Mondo
+Nuovo&lt;/a&gt;&lt;/strong&gt;
+di Aldous Huxley. Anche lì la popolazione è controllata, ma in modo
+completamente diverso: lì quella che si crede la classe dominante vive
+tra continui piaceri e intrattenimenti. &lt;strong&gt;L’impegno non è soffocato, è
+distratto. La verità non viene nascosta o falsificata, viene sommersa in
+un mare di notizie più accattivanti&lt;/strong&gt;. Gossip, foto di cibo, Candy
+Crush, Netflix e tutta la TV che si possa desiderare. Notate che per noi
+che lo leggiamo, Il Mondo Nuovo è una distopia, ma per gli Alpha
+descritti nel libro, la loro è la migliore delle vite possibili,
+un’utopia. Ma pure per i cittadini perfettamente integrati nel sistema,
+quello del Grande Fratello è il migliore dei mondi possibili!
+Internet doveva renderci liberi e chi ha vissuto la primavera araba
+nelle piazze egiziane e usava la rete per organizzarsi e comunicare e
+far sapere al mondo cosa stava succedendo, lo ha sicuramente visto come
+strumento di libertà. Dopo quella rivoluzione, ne hanno dovuta fare
+un’altra per liberarsi del nuovo presidente, democraticamente eletto,
+espressione di una verità e di una libertà evidentemente non troppo
+vere, non troppo libere, ma molto ben comunicate e in grado di fare
+presa sugli elettori.
+&lt;strong&gt;Le due promesse, renderci più informati e renderci più liberi, sono
+fallite&lt;/strong&gt;. In parte. C’è chi è effettivamente più informato e più
+libero. C’è chi è stato reso meno informato e meno libero. Non ha fatto
+la scelta giusta, o non si è reso conto di avere una scelta o proprio
+non gliene fregava niente e secondo lui siamo noi a essere più
+disinformati e schiavi del regime, delle corporazioni, di noi stessi, di
+qualcosa. E il fatto che siano fallite in parte vuol dire che &lt;em&gt;noi&lt;/em&gt;
+sappiamo di più e siamo più liberi, ma &lt;em&gt;loro&lt;/em&gt; no. &lt;em&gt;Loro&lt;/em&gt; hanno deciso di
+rimanere nell’ignoranza. E il bello è che &lt;em&gt;loro&lt;/em&gt; possono dire la stessa
+cosa di &lt;em&gt;noi&lt;/em&gt;, perché secondo &lt;em&gt;loro&lt;/em&gt; siamo &lt;em&gt;noi&lt;/em&gt; quelli che vanno dietro
+a sciocchezze e si fanno illudere e ingannare.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ma queste promesse chi le ha fatte?&lt;/strong&gt;
+Non internet, che è uno strumento e, in quanto tale, non può fare
+promesse e può essere usato per il bene o per il male. No, le promesse
+non le fanno le tecnologie e i protocolli di comunicazione, le fanno le
+persone. Che interpretano quelle tecnologie e quei protocolli in una
+certa maniera, gli associano certi valori e certe potenzialità. Sta
+succedendo la stessa cosa con la
+&lt;a href="http://apofenia.voxmail.it/nl/hm7np/kd72rc/uf/9/aHR0cHM6Ly93d3cuY2hlLWZhcmUuY29tL2xlLXJhZGljYWxpLXBvdGVuemlhbGl0YS1kaS1ibG9ja2NoYWluLw?_d=071&amp;amp;_c=e32cf5b0"&gt;blockchain&lt;/a&gt;.
+&lt;strong&gt;Quelle promesse ce le siamo fatte da soli o le hanno fatte persone
+come noi e noi ci abbiamo creduto.&lt;/strong&gt;
+E’ la natura umana, la solita natura umana. Che ha sempre portato a
+questa situazione, indipendentemente dal periodo storico e dalle
+tecnologie. E’ una pia illusione il dettato del tecno determinismo duro,
+che dice che la tecnologia migliorerà finalmente la vita di tutti. Il
+tecno determinismo soft dice solo che la tecnologia cambia la vita ed è
+corretto: ma è anche una banalità.
+E quindi? Come salviamo internet? Bisogna salvare internet? A tutta
+questa parte cupa, quale parte positiva e propositiva segue?
+&lt;strong&gt;Non lo so&lt;/strong&gt;. Per ora nelle mie riflessioni arrivo qui, non ho e non
+vedo una soluzione. &lt;strong&gt;E quindi sono triste&lt;/strong&gt;.
+Vedo altre persone con cui ho grande sintonia, come &lt;a href="http://apofenia.voxmail.it/nl/hm7np/kd72rc/uf/10/aHR0cHM6Ly9zcGVlZGJpcmQud29yZHByZXNzLmNvbS8?_d=071&amp;amp;_c=4b771919"&gt;&lt;strong&gt;Adam
+Greenfield&lt;/strong&gt;&lt;/a&gt;
+(&lt;a href="http://apofenia.voxmail.it/nl/hm7np/kd72rc/uf/11/aHR0cHM6Ly90aW55bGV0dGVyLmNvbS9zcGVlZGJpcmQv?_d=071&amp;amp;_c=d3395a08"&gt;iscrivetevi alla sua
+newsletter&lt;/a&gt;)
+e &lt;a href="http://apofenia.voxmail.it/nl/hm7np/kd72rc/uf/12/aHR0cHM6Ly9tZWRpdW0uY29tL21hdHRlci90aGUtd2ViLXdlLWhhdmUtdG8tc2F2ZS0yZWIxZmUxNWE0MjY?_d=071&amp;amp;_c=3c9355a2"&gt;&lt;strong&gt;Hossein
+Derakhshan&lt;/strong&gt;&lt;/a&gt;
+(sei anni in prigione perché bloggava, esce e si trova Facebook) che
+stanno giungendo alle stesse conclusioni, ma ancora non trovo e non vedo
+una proposta, una soluzione. Per ora quello che sappiamo è dove &lt;em&gt;non&lt;/em&gt;
+troveremo la soluzione: non la troveremo in più tecnologia e più
+algoritmi.&lt;/p&gt;
+&lt;p&gt;E non la troveremo neppure con gli estremismi: solo facendo gli
+intellettualoidi superimpegnati o solo cercando leggerezza e
+divertimento. Ci vuole una sana via di mezzo.&lt;/p&gt;
+&lt;p&gt;La prossima settimana cercherò di essere meno pensante e pesante!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;++
+&lt;/strong&gt;Per favore, inoltra la newsletter ai tuoi amici se la trovi
+interessante. O parlane sul tuo social network preferito&lt;strong&gt;&lt;em&gt;*. &lt;/em&gt;*Puoi
+usare questo testo se non vuoi scriverne tu uno:
+&lt;/strong&gt;&lt;em&gt;Apofenia è la newsletter che ti fa riflettere, pure co sto caldo.
+Iscriviti anche tu &lt;a href="http://apofenia.voxmail.it/nl/hm7np/kd72rc/uf/13/aHR0cDovL2Fwb2ZlbmlhLnZveG1haWwuaXQvdXNlci9yZWdpc3Rlcg?_d=071&amp;amp;_c=58ea776b"&gt;http://apofenia.voxmail.it/&lt;wbr&gt;&lt;/wbr&gt;user/register
+&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;E ricorda che questa è un'email: se mi vuoi rispondere, basta che
+clicchi &lt;em&gt;rispondi&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;++&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aiuta le persone a cui vuoi bene a capire come stanno le cose. Ma prima
+assicurati di averlo capito tu, o gli farai il peggiore dei disservizi
+possibili!
+AN
+Roma
+2015&lt;/p&gt;</summary><category term="apofenia"></category></entry><entry><title>L'app per trovare parcheggio e la mancanza di empatia</title><link href="http://andreanicosia.net/2015/06/16/apofenia-1/" rel="alternate"></link><published>2015-06-16T09:40:00+02:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2015-06-16:2015/06/16/apofenia-1/</id><summary type="html">&lt;p&gt;Buongiorno da Roma, una città che lotta contro fango e corruzione dal
+753 a.C., ma è ancora in piedi. Vorrà dire qualcosa, no?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;++\
+&lt;a href="http://apofenia.voxmail.it/user/register"&gt;Apofenia&lt;/a&gt;: pensieri sconnessi
+con periodicità casuale di &lt;a href="http://www.andreanicosia.net"&gt;Andrea
+Nicosia&lt;/a&gt;\
+++&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La città è in piedi, ma i romani iniziano a dare segni di cedimento. Le
+difficoltà sono tante, si sente tensione nell'aria. Il nervosismo è
+forte, la reazione stizzita è sempre dietro l'angolo. I clacson che
+suonano fuori dalla finestra mi ricordano, come se ne avessi bisogno,
+che tra i problemi e cause di nervosismo e litigi c'è il traffico.&lt;/p&gt;
+&lt;p&gt;Evidentemente è ben presente nelle menti di molti, dato che negli ultimi
+corsi che ho tenuto, che il tema fosse la tecnologia o le startup,
+qualcuno se ne usciva con l'idea dell'app per trovare parcheggio. Che è
+una bella idea. Non perché funzioni, non funziona. Ma perché permette di
+ragionare sulle &lt;a href="https://en.wikipedia.org/wiki/Unintended_consequences"&gt;conseguenze
+inattese&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Come funziona trovare parcheggio? Fondamentalmente ci sono due fattori
+in gioco.\
+Il primo è la fortuna e non ha bisogno di spiegazioni.\
+Il secondo è la conoscenza della città: sapere che dopo una certa ora
+un'area con auto parcheggiate anche sui pali di divieto di sosta si
+svuota perché è zona di uffici, conoscere una stradina secondaria in cui
+non passa mai nessuno, avere idea di quanto prima bisogna muoversi per
+arrivare alla nostra destinazione, trovare un posto per l'auto e
+arrivare puntuali all'appuntamento.&lt;/p&gt;
+&lt;p&gt;Come funziona l'app per trovare parcheggio? In un modo o nell'altro - ci
+sono tanti modi, le soluzioni non mancano - sa in tempo reale dove si
+trovano i posti auto liberi e ce lo comunica. Anche qui vi sono
+differenti modi per ricevere la notifica: sullo smartphone, su un
+apparecchio apposito tipo Telepass.&lt;/p&gt;
+&lt;p&gt;Sembrerebbe una soluzione magnifica: non ci sarebbe più bisogno di
+conoscenza della città e la fortuna verrebbe sostituita da
+un'informazione puntuale. Niente più auto che contribuiscono al
+traffico, all'inquinamento e al rischio incidenti girando alla ricerca
+di un parcheggio. Niente più nervosismo perché non si trova parcheggio
+mentre l'orario dell'appuntamento si avvicina inesorabile. Niente più
+litigi con un altro automobilista che ha adocchiato il nostro posto o
+frustrazione per quello che gira proprio dove volevamo girare noi e
+proprio mentre un'auto sta lasciando un parcheggio.&lt;/p&gt;
+&lt;p&gt;Bello, ma non funziona. Ed ecco perché.\
+All'inizio solo una parte degli automobilisti fruisce del servizio. La
+fortuna non viene annullata perché l'informazione è incompleta. A
+seconda che il servizio sia gestito ed erogato da un privato o da
+un'Istituzione ci sarà uno sviluppo o un altro, che ora non mi metto ad
+analizzare.\
+A un certo punto o per praticità o per imposizione legislativa o per
+incentivi, tutti gli automobilisti fruiranno del servizio, che dà
+un'informazione completa. Quindi tutti gli automobilisti interessati a
+trovare parcheggio in una certa zona verranno informati della posizione
+dei posti liberi. E ci si dirigeranno tipo squali verso la preda. Ma
+solo uno potrà parcheggiare. Chi? L'automobilista più vicino al posto al
+momento in cui viene notificato a tutti che è libero, oppure quello che
+si trova sulla strada migliore: niente sensi unici, semafori verdi. In
+una parola, il più fortunato.&lt;/p&gt;
+&lt;p&gt;Quindi non cambierebbe nulla? No, anzi: ci sarebbe una differenza
+fondamentale. Non sarebbe più necessario girare in attesa del colpo di
+fortuna. Anzi, sarebbe controproducente, perché girando potremmo
+trovarci dalla parte sbagliata di un senso unico o di una serie di
+semafori. Sarebbe meglio sostare da qualche parte, in curva, in doppia
+fila, in mezzo a una piazza, all'ingresso di una rotonda, sulla rampa di
+un cavalcavia, davanti a un cancello, insomma in divieto di sosta, e
+aspettare la notifica. E sperare di essere il più vicino e il più
+veloce. Ma sostare in divieto di sosta non si può. Quindi, dove fermarsi
+per aspettare senza rischiare una multa o il linciaggio da parte di
+automobilisti bloccati dalla nostra auto? In luoghi che per esperienza
+sappiamo essere tranquilli. E quindi torna la conoscenza della città.
+Siamo tornati ai fattori di partenza, la differenza è che abbiamo
+sostituito un ingorgo con un immenso parcheggio in sosta vietata
+intervallato da rapide gare. Una conseguenza inattesa.&lt;/p&gt;
+&lt;p&gt;Cosa funzionerebbe meglio? Forse un sistema che non dice esattamente
+dove si trovano i parcheggi liberi, ma quanti ce ne sono in una data
+zona, per evitare che il traffico si diriga verso zone in cui
+sicuramente non ci sono posti. Il sistema raccoglierebbe dati precisi,
+ma restituirebbe informazioni volutamente vaghe. Dato certo,
+informazione vaga. E' qualcosa su cui riflettere. Barcellona ha provato
+un sistema simile. E il fatto che poi non l'abbia adottato è un altro
+elemento su cui riflettere.&lt;/p&gt;
+&lt;p&gt;Il vero problema di queste app per trovare parcheggio è che le persone
+che le hanno proposte nei vari corsi che ho tenuto le hanno presentate
+come "un sistema per aiutare gli automobilisti a trovare parcheggio", ma
+quello che volevano veramente è "un sistema che aiuta me a trovare
+parcheggio." Una visione, magari inconsapevolmente, un po' egoista.&lt;/p&gt;
+&lt;p&gt;E questo ci porta al punto di partenza di questa prima email. Badare
+solo al proprio punto di vista, non avere empatia per gli altri. Non è
+questa la causa, ma forse è una delle cause, dei problemi di Roma, ma
+magari meno punti di vista personali e assoluti e più empatia ci
+potrebbero aiutare a reggere meglio questo periodo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;++\
+Per favore, pubblicizza la newsletter con un tweet o un post sul tuo
+social network preferito&lt;/strong&gt;. &lt;strong&gt;Puoi usare questo testo se non vuoi
+sforzarti di scriverne tu uno:&lt;/strong&gt;\
+&lt;em&gt;Io leggo Apofenia, la newsletter che è meglio di Highlander 2.
+Leggetela anche voi: &lt;a href="http://apofenia.voxmail.it/user/register"&gt;http://apofenia.voxmail.it/user/register&lt;/a&gt;&lt;/em&gt;\
+&lt;strong&gt;++&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Per questa settimana è tutto.&lt;/p&gt;
+&lt;p&gt;Trattati bene e prenditi cura di chi hai intorno. Se hai bisogno di
+respirare prenditi cinque minuti e guarda male chi ti dice che sei
+cinque minuti in ritardo.&lt;/p&gt;
+&lt;p&gt;AN\
+Roma\
+2015&lt;/p&gt;
+&lt;p&gt;Non ti interessa questa newsletter? &lt;a href="http://apofenia.voxmail.it/newsletter/wnnwb/preview/%5Bprofile_link%5D"&gt;Disiscriviti
+qui&lt;/a&gt;,
+avrai più tempo per guardare Highlander 2.&lt;/p&gt;</summary><category term="apofenia"></category><category term="internet of things"></category></entry></feed>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Andrea Nicosia</title><link href="http://andreanicosia.net/" rel="alternate"></link><link href="http://andreanicosia.net/feeds/lavoro-progetti.atom.xml" rel="self"></link><id>http://andreanicosia.net/</id><updated>2015-08-04T10:08:00+02:00</updated><entry><title>Chetteleggi: si va avanti!</title><link href="http://andreanicosia.net/2015/08/04/chetteleggi-si-va-avanti/" rel="alternate"></link><published>2015-08-04T10:08:00+02:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2015-08-04:2015/08/04/chetteleggi-si-va-avanti/</id><summary type="html">&lt;p&gt;Un rapido aggiornamento su
+&lt;a href="http://www.magrathea.it/chetteleggi/"&gt;Chetteleggi&lt;/a&gt;.\
+Il lavoro di straforo e a tempo perso sul sito per scambiarsi consigli
+di lettura va avanti. Ecco a che punto sono.&lt;/p&gt;
+&lt;p&gt;Per ora ho fatto una grossa modifica dietro le quinte che &lt;strong&gt;velocizza
+molto la visualizzazione dell’elenco dei libri consigliati&lt;/strong&gt;. Guarda tu
+stesso: questa è la &lt;a href="http://www.magrathea.it/chetteleggi/lista_originale.php"&gt;vecchia
+versione&lt;/a&gt;,
+mentre questa è la supervelocissima &lt;a href="http://www.magrathea.it/chetteleggi/lista.php"&gt;nuova
+versione&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Su richiesta di un paio di persone ho inserito la possibilità di
+&lt;strong&gt;aggiungere un tag ai suggerimenti&lt;/strong&gt;. I tag sono liberi: puoi usarli
+per indicare il sottogenere (zombie, romantico, umoristico, politica,
+economia), o per sintetizzare in una parola o breve frase il motivo per
+cui suggerisci quel libro.&lt;/p&gt;
+&lt;p&gt;Un amico mi ha chiesto il perché del sito, quando
+&lt;strong&gt;&lt;a href="http://www.goodreads.com/"&gt;Goodreads&lt;/a&gt; fa già le stesse cose di
+Chetteleggi&lt;/strong&gt;. Non solo Goodreads fa le stesse cose, &lt;strong&gt;ne fa pure di
+più!&lt;/strong&gt; Permette di scrivere recensioni lunghe, dare voti ai libri,
+seguire altre persone e altro ancora.&lt;/p&gt;
+&lt;p&gt;Un altro amico ha scritto che &lt;strong&gt;anche la recensione negativa ha un
+valore&lt;/strong&gt;, perché permette di risparmiare tempo evitando libri che amici
+con gusti simili ci sconsigliano. Stessa cosa per i giudizi: ragionando
+in stelline, se siamo a corto di tempo, meglio leggere un libro da 4,3
+che da 3,4. Giusto, anche questo è possibile con Goodreads e non lo è
+con Chetteleggi.&lt;/p&gt;
+&lt;p&gt;E il punto è proprio questo: Goodreads è un ottimo strumento ma
+complesso. Quello che voglio creare io è qualcosa di &lt;strong&gt;molto più
+leggero&lt;/strong&gt;, la cosa più prossima all’esperienza &lt;strong&gt;dell’amico che in
+libreria indica un libro e ti dice “questo te lo devi leggere”&lt;/strong&gt;.\
+Un uso semplice e rapido.\
+E tutto &lt;strong&gt;girato in positivo&lt;/strong&gt;: consigli di lettura, non recensioni che
+possono anche sconsigliare un libro.&lt;/p&gt;
+&lt;p&gt;Cose da fare nel prossimo futuro:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rendere i tag utili&lt;/li&gt;
+&lt;li&gt;Implemetare la ricerca per genere&lt;/li&gt;
+&lt;li&gt;Permettere il login con Twitter.&lt;/li&gt;
+&lt;li&gt;Rivedere grafica e contenuti.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A parte il lavoro sul sito, mi sto chiedendo se non vale la pena creare
+un chettenetwork per scambiare suggerimenti anche su film, serie tv,
+boh.&lt;/p&gt;
+&lt;p&gt;Se hai suggerimenti o idee, fatti sentire!&lt;/p&gt;</summary><category term="consigli"></category></entry><entry><title>Chetteleggi: consigliare i propri libri preferiti e trovare nuove letture</title><link href="http://andreanicosia.net/2015/07/27/chetteleggi-consigliare-i-propri-libri-preferiti-e-trovare-nuove-letture/" rel="alternate"></link><published>2015-07-27T10:42:00+02:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2015-07-27:2015/07/27/chetteleggi-consigliare-i-propri-libri-preferiti-e-trovare-nuove-letture/</id><summary type="html">&lt;p&gt;&lt;a href="http://www.andreanicosia.net/wp-content/uploads/2015/07/libreria-pratchett.jpg"&gt;&lt;img alt="libreria-pratchett" src="http://www.andreanicosia.net/wp-content/uploads/2015/07/libreria-pratchett-1024x613.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ho creato &lt;strong&gt;&lt;a href="http://www.magrathea.it/chetteleggi/"&gt;Chetteleggi&lt;/a&gt;&lt;/strong&gt;, un
+sito per consigliare agli amici i libri che vanno proprio letti. Adesso
+ti spiego perché l'ho fatto e perché dovresti essere così gentile da
+usarlo e farlo usare ai tuoi amici.&lt;/p&gt;
+&lt;p&gt;E’ estate, come avrai senz’altro notato. Per me &lt;strong&gt;l’estate è sempre
+stato il periodo delle letture intense&lt;/strong&gt;, soprattutto negli ultimi
+tempi, in cui arrivo a sera distrutto e ho perso il piacere delle
+letture serali, sostituito dal fastidio del libro o del tablet che mi
+crolla sul naso alla terza frase che provo a leggere.&lt;/p&gt;
+&lt;p&gt;Uno degli aspetti più belli della lettura è &lt;strong&gt;leggere libri consigliati
+dagli amici&lt;/strong&gt;. E, ovviamente, &lt;strong&gt;condividere le gioie, le lacrime, le
+risate, i pensieri e le riflessioni causate dalla lettura di un libro&lt;/strong&gt;
+con un amico, consigliandoglielo o regalandoglielo, in modo che anche
+lui possa provare le stesse emozioni. E poi ne possiamo parlare assieme.&lt;/p&gt;
+&lt;p&gt;Il &lt;strong&gt;passaparola&lt;/strong&gt; è sempre stato il modo in cui il concetto di “&lt;em&gt;questo
+libro è bello e lo devi leggere&lt;/em&gt;” si è trasmesso nel modo più forte.
+Così forte che Neil Gaiman sostiene che &lt;a href="http://apofenia.voxmail.it/nl/k2tdm/kd72rc/uf/1/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0wUWt5dDF3WE5sSQ?_d=06Q&amp;amp;_c=5dd7c85a"&gt;la pirateria dei libri non è
+altro che l’evoluzione del
+passaparola&lt;/a&gt;
+e lo aiuta a a vendere più libri.
+Quindi, estate, letture, consigli. Stamattina mi sono svegliato con
+un’idea in testa e nove ore dopo (pausa pranzo compresa) e grazie
+all’intervento sul finale di un amico che mi ha evitato di cadere
+vittima di &lt;a href="http://apofenia.voxmail.it/nl/k2tdm/kd72rc/uf/2/aHR0cHM6Ly94a2NkLmNvbS8zMjcv?_d=06Q&amp;amp;_c=3927885f"&gt;Bobby
+Tables&lt;/a&gt;,
+&lt;strong&gt;ho messo online
+&lt;a href="http://apofenia.voxmail.it/nl/k2tdm/kd72rc/uf/3/aHR0cDovL3d3dy5tYWdyYXRoZWEuaXQvY2hldHRlbGVnZ2k?_d=06Q&amp;amp;_c=41eda3f6"&gt;Chetteleggi&lt;/a&gt;&lt;/strong&gt;.
+&lt;strong&gt;Chetteleggi serve a scambiarsi consigli di lettura&lt;/strong&gt;: metti il link
+alla pagina di &lt;a href="http://amazon.it"&gt;amazon.it&lt;/a&gt; con il libro che vuoi
+consigliare, scrivi poche frasi per spiegare perché quello è un libro da
+leggere e il gioco è fatto.&lt;/p&gt;
+&lt;p&gt;Perché? Facebook non basta? Voglio lanciare il Facebook dei libri? (oh,
+anobii esiste ancora, pensa!)
+A parte che &lt;em&gt;il Facebook di qualsiasi cosa è Facebook&lt;/em&gt;, sì, è certamente
+possibile scoprire e consigliare libri su Facebook.&lt;/p&gt;
+&lt;p&gt;Andiamo con ordine.
+Innanzitutto, &lt;strong&gt;mi sono svegliato stamattina con un’idea e stasera
+quell’idea era una cosa concreta&lt;/strong&gt;, esistente nel mondo, usabile. Ah,
+che grande soddisfazione costruire qualcosa, seppure di digitale.&lt;/p&gt;
+&lt;p&gt;Io non credo che la programmazione sia la nuova alfabetizzazione e tutti
+debbano saper programmare. Io non so programmare e se mi serve un
+programma assumo un programmatore. Come assumo un idraulico o un
+elettricista quando serve. Ma sono d’accordo che &lt;strong&gt;è molto importante
+sapersi sporcare le mani, avere idea di come funziona il software, che è
+qualcosa di sempre più incardinato nelle nostre vite&lt;/strong&gt;. Per gli stessi
+motivi per cui non sempre serve assumere un idraulico o un elettricista.
+Non solo per risparmiare e non solo per il gusto del fai da te. Ma &lt;strong&gt;per
+un fatto politico e culturale&lt;/strong&gt;: per sapere come funziona, che logiche
+segue, un programma. Perché programmi e algoritmi regolano sempre più le
+nostre vite. E’ importante rendersi conto di come nascono e sapere che
+sono frutto di una serie di scelte, e tutte le scelte sono per
+definizione politiche.&lt;/p&gt;
+&lt;p&gt;Poi &lt;strong&gt;ha ragione Cory Doctorow&lt;/strong&gt;: vedere &lt;strong&gt;una macchina che fa quello
+che tu le hai detto di fare grazie a un programma che hai scritto tu è
+una grande soddisfazione&lt;/strong&gt;. Soprattutto quando per te programmare
+significa cercare i pezzi di quello che ti serve sul web, martellarli
+insieme e dargli un’aggiustata a occhio e a buon senso. Quando ho visto
+che le API di Amazon e le API di Facebook facevano quello che volevo io
+e che le pagine venivano come le io le avevo immaginate, ho fatto una
+piccola (ma diciamo pure media) danza della vittoria. I gatti sono
+rimasti perplessi.&lt;/p&gt;
+&lt;p&gt;Infine, Facebook. Nonostante le apparenze e nonostante la funzione che
+ti mostra post dell’anno scorso chiedendoti se li vuoi ricondividere,
+&lt;strong&gt;Facebook non è fatto per la memoria&lt;/strong&gt;. Quello che ci posti si perde
+come lacrime nella pioggia. O nello stream, per essere più precisi. &lt;strong&gt;Lo
+stream è il flusso ininterrotto di nuovi aggiornamenti&lt;/strong&gt;, visualizzati
+in ordine cronologico inverso, che ormai ci sembra il modo più familiare
+per assumere notizie e informazioni. Ma lo stream è, appunto, un flusso.
+Ininterrotto. Con il nuovo sempre in cima. Perché Facebook e tutti i
+social network lo sanno bene: ci vuole sempre qualcosa di nuovo in cima,
+per trattenere la nostra attenzione dandoci una piccola dose di
+dopamina, una piccola scarica di piacere per la novità e per la fuga,
+anche se solo per pochi istanti, dalla noia.
+Quindi sì, è possibile scambiarsi consigli e opinioni su libri su
+Facebook. E si possono anche avere discussioni interessanti. Ma solo
+adesso. &lt;strong&gt;Poi si perdono e ritrovarle è un delirio&lt;/strong&gt;. Scorrono via.&lt;/p&gt;
+&lt;p&gt;Uno strumento come &lt;strong&gt;Chetteleggi invece rimane&lt;/strong&gt;. L’idea è questa: poter
+tornare con calma a rivedere dei consigli, senza l’ansia di perderli
+nello stream. Poter tornare sempre a rivedere i libri che ci hanno
+colpito, per vedere se siamo ancora d’accordo con noi stessi.&lt;/p&gt;
+&lt;p&gt;Ti chiedo, per favore, di usare Chetteleggi e spargere la voce tra i
+tuoi amici. Voglio vedere come funziona, cosa c’è da sistemare, che
+suggerimenti arrivano, quanto regge a un traffico intenso. So che ci
+sono già delle cose da mettere a posto. Tipo: se anziché inserire un
+link ad Amazon metti un link a youporn, il sistema l’accetta. Come
+accetta link ad oggetti in vendita su Amazon che non siano libri. Per
+ora, per favore, non inserire link a youporn o altri siti che non siano
+Amazon.it. E inserisci solo consigli per letture.&lt;/p&gt;
+&lt;p&gt;Nella tua vita puoi leggere solo un numero limitato di libri. Lo devi a
+te stesso che siano tutti libri che ti lascino qualcosa (vale pure per
+quelli brutti).&lt;/p&gt;</summary><category term="apofenia"></category><category term="libri"></category></entry><entry><title>Arduino powered, web controlled cat toy</title><link href="http://andreanicosia.net/2013/10/15/arduino-powered-web-controlled-cat-toy/" rel="alternate"></link><published>2013-10-15T15:19:00+02:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2013-10-15:2013/10/15/arduino-powered-web-controlled-cat-toy/</id><summary type="html">&lt;p&gt;An experiment in controlling an Arduino over the web. To give it a
+practical spin, I quickly assembled a simple toy for my cat.&lt;/p&gt;
+&lt;p&gt;An user could connect to a website, set the speed of the toy with a
+simple interface and watch the cat have fun via live streaming.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="//www.youtube.com/embed/FG7_Kszs7Ak" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In a 2.0 version, the Arduino was connected to a proximity sensor and
+ran a script that fired off a tweet whenever the cat was around, to
+alert potential players.&lt;/p&gt;</summary></entry></feed>

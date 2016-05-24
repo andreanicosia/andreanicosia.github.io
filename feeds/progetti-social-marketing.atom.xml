@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Andrea Nicosia</title><link href="http://andreanicosia.net/" rel="alternate"></link><link href="http://andreanicosia.net/feeds/progetti-social-marketing.atom.xml" rel="self"></link><id>http://andreanicosia.net/</id><updated>2013-05-14T19:18:00+02:00</updated><entry><title>Arduino Social Board</title><link href="http://andreanicosia.net/2013/05/14/arduino-social-board/" rel="alternate"></link><published>2013-05-14T19:18:00+02:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2013-05-14:2013/05/14/arduino-social-board/</id><summary type="html">&lt;p&gt;&lt;a href="http://www.andreanicosia.net/wp-content/uploads/2013/05/eggo-A.jpg" title="Eggo - rendering of the final design"&gt;&lt;img alt="Eggo - rendering of the final design" src="http://www.andreanicosia.net/wp-content/uploads/2013/05/eggo-A-1024x723.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Arduino based Social Board is an analogue social network for a close
+knit group of friends.&lt;/p&gt;
+&lt;p&gt;It's a design object that tells you at a glance how your friends are
+feeling and what they are up to for the night, making a digital
+information pleasantly physical.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.andreanicosia.net/wp-content/uploads/2013/05/image.jpg"&gt;&lt;img alt="The initial sketch" src="http://www.andreanicosia.net/wp-content/uploads/2013/05/image-300x220.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.andreanicosia.net/wp-content/uploads/2013/05/proto1.jpg"&gt;&lt;img alt="Prototipo - con arduino
+dietro" src="http://www.andreanicosia.net/wp-content/uploads/2013/05/proto1.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.andreanicosia.net/wp-content/uploads/2013/05/proto2.jpg"&gt;&lt;img alt="Working prototype - front
+view" src="http://www.andreanicosia.net/wp-content/uploads/2013/05/proto2.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="arduino"></category><category term="diy"></category></entry></feed>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Andrea Nicosia</title><link href="http://andreanicosia.net/" rel="alternate"></link><link href="http://andreanicosia.net/feeds/progetti.atom.xml" rel="self"></link><id>http://andreanicosia.net/</id><updated>2015-08-09T11:08:00+02:00</updated><entry><title>Chetteleggi: leggi un libro o una lavatrice?</title><link href="http://andreanicosia.net/2015/08/09/chetteleggi-leggi-un-libro-o-una-lavatrice/" rel="alternate"></link><published>2015-08-09T11:08:00+02:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2015-08-09:2015/08/09/chetteleggi-leggi-un-libro-o-una-lavatrice/</id><summary type="html">&lt;p&gt;Questa settimana ho lavorato poco su
+&lt;a href="http://www.magrathea.it/chetteleggi"&gt;Chetteleggi&lt;/a&gt;. Il grosso del tempo
+l’ho impiegato per consegnare gli ultimi lavori prima dell’inizio delle
+ferie e in qualche rogna famigliare.&lt;/p&gt;
+&lt;p&gt;Comunque, qualcosa ho fatto: una piccola modifica per il sito, una
+grande… no, è piccola e basta. Amazon divide i prodotti in categorie
+(libri, elettrodomestici, dvd eccetera) e in sottocategorie: libri
+gialli, libri d’arte, fantascienza, biografie eccetera. Volevo
+alleggerire il form usato per inserire un consiglio demandando ad Amazon
+il compito di attribuire una categoria al libro. Ci sono riuscito sì e
+no. Sì nel senso che trovare il tipo di prodotto (libro) è facile. La
+sottocategoria è un altro paio di maniche.&lt;/p&gt;
+&lt;p&gt;Innanzitutto, un libro può, giustamente, appartenere a più
+sottocategorie. &lt;a href="http://www.amazon.it/gp/product/8875214905/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=3370&amp;amp;creative=24114&amp;amp;creativeASIN=8875214905&amp;amp;linkCode=as2&amp;amp;tag=magrathea0b-21%22"&gt;Ecco un
+esempio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se leggi i dettagli, vedrai che appartiene alle categorie&lt;/p&gt;
+&lt;p&gt;Libri &amp;gt; Arte, musica e cinema &amp;gt; Storia dell'arte, teoria e critica&lt;/p&gt;
+&lt;p&gt;Libri &amp;gt; Società e scienze sociali &amp;gt; Studi culturali e sociali&lt;/p&gt;
+&lt;p&gt;Quale categoria prendere? La prima, Storia dell’arte, teoria e critica,
+o la seconda, Studi culturali e sociali? A quale categoria fermarsi? Ad
+Arte, musica e cinema o andare fino in fondo? La domanda è meno banale
+del previsto.&lt;/p&gt;
+&lt;p&gt;Guarda &lt;a href="http://www.amazon.it/gp/product/8804414510/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=3370&amp;amp;creative=24114&amp;amp;creativeASIN=8804414510&amp;amp;linkCode=as2&amp;amp;tag=magrathea0b-21%22"&gt;La fine
+dell’eternità&lt;/a&gt; :&lt;/p&gt;
+&lt;p&gt;Libri &amp;gt; Fantascienza&lt;/p&gt;
+&lt;p&gt;E ora guarda
+&lt;a href="http://www.amazon.it/gp/product/8834727118/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=3370&amp;amp;creative=24114&amp;amp;creativeASIN=8834727118&amp;amp;linkCode=as2&amp;amp;tag=magrathea0b-21"&gt;Hyperion&lt;/a&gt; :&lt;/p&gt;
+&lt;p&gt;Libri &amp;gt; Fantasy&lt;/p&gt;
+&lt;p&gt;Kindle Store &amp;gt; eBook Kindle &amp;gt; Fantascienza,&lt;/p&gt;
+&lt;p&gt;Horror e Fantasy &amp;gt; Fantasy&lt;/p&gt;
+&lt;p&gt;Ma:&lt;/p&gt;
+&lt;p&gt;Kindle Store &amp;gt; eBook Kindle &amp;gt; Fantascienza, Horror e Fantasy &amp;gt; Fantascienza&lt;/p&gt;
+&lt;p&gt;Se è cartaceo, la sottocategoria è al primo livello di profondità. Se è
+in formato digitale, c’è di mezzo Fantascienza, Horror e Fantasy.&lt;/p&gt;
+&lt;p&gt;Capisci quindi che è complicato capire quale categoria prendere
+dovendone scegliere una, per le solite esigenze di leggerezza, e anche a
+che livello di profondità fermarsi, perché in alcuni casi basta il
+primo, in altri bisogna andare più a fondo.&lt;/p&gt;
+&lt;p&gt;E mi sono appena accorto di un’altra cosa: l’edizione di Hyperion che ho
+linkato sopra è quella Kindle. Per quella con la copertina flessibile,
+la categorie è&lt;/p&gt;
+&lt;p&gt;Libri &amp;gt; Fantascienza&lt;/p&gt;
+&lt;p&gt;Insomma Amazon, decidi! E’ un libro fantasy è un libro di fantascienza?&lt;/p&gt;
+&lt;p&gt;E
+&lt;a href="http://www.amazon.it/gp/product/8842906808/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=3370&amp;amp;creative=24114&amp;amp;creativeASIN=8842906808&amp;amp;linkCode=as2&amp;amp;tag=magrathea0b-21"&gt;Neuromante&lt;/a&gt;?
+Guarda tu stesso: in formato Kindle non è un libro di fantascienza, con
+copertina rigida o flessibile, sì.&lt;/p&gt;
+&lt;p&gt;Non è un problema irrisolvibile, ma non è un problema che io posso
+risolvere con le mie capacità attuali di programmazione.&lt;/p&gt;
+&lt;p&gt;In fondo ricorda che io non sono un programmatore e per fare tutto
+questo opero un po’ come il Dottor Frankenstein: prendo pezzi qua e là,
+gli do una sistemata, cucio tutto assieme, attacco la corrente e spero
+che vada tutto bene. Con la differenza che io non sono il Dottor
+Frankenstein, io sono Igor.&lt;/p&gt;
+&lt;p&gt;Il lavoro comunque non è stato completamente inutile: anche solo avere
+l'informazione se un prodotto è un libro o meno è utile. Posso inserire
+un sistema che rifiuti un suggerimento se il link amazon punta non a un
+libro ma, che so, a una lavatrice. Oppure, posso estendere il concetto
+di Chetteleggi anche ai suggerimenti su film, serie tv, musica e
+lavatrici.&lt;/p&gt;
+&lt;p&gt;Una cosa non complicata in assoluto, ma complicata per me e più urgente
+è permettere il login con Twitter oltre che con Facebook.&lt;/p&gt;
+&lt;p&gt;Non so se l’ho già scritto, in caso di mi ripeto. Inizialmente avevo
+pensato a un sistema di suggerimenti anonimi. Ma poi ho riflettuto e ho
+pensato che il valore di un consiglio sta nella persona che ci dà
+quell’opinione. Quindi, no all’anonimato.&lt;/p&gt;
+&lt;p&gt;E però io sono un grande fan dell’anonimato online e Facebook è
+esattamente il contrario di questo: l’identità assoluta e un po’ piatta.
+Su Twitter invece puoi essere te stesso, ma puoi pure proiettare
+un’altra identità. Ed è con quella che vuoi essere conosciuto e vuoi
+dare consigli.&lt;/p&gt;
+&lt;p&gt;Quindi potersi loggare con Twitter è importante. E’ questo quello su cui
+lavorerò la prossima settimana, al netto di un bisogno di riposo sempre
+più irrinunciabile. Se riesco, inserisco pure la possibilità di poter
+“preferire” o “cuoricinare” un suggerimento, sia per mostrare
+apprezzamento verso chi l’ha scritto che per potersi creare una
+rudimentale lista dei desideri.&lt;/p&gt;</summary><category term="chetteleggi"></category></entry><entry><title>Urbanized, documentario sull'urban design. Lunedì 16 a Roma</title><link href="http://andreanicosia.net/2013/12/13/urbanized-documentario-sullurban-desing-lunedi-16-a-roma/" rel="alternate"></link><published>2013-12-13T12:47:00+01:00</published><author><name>admin</name></author><id>tag:andreanicosia.net,2013-12-13:2013/12/13/urbanized-documentario-sullurban-desing-lunedi-16-a-roma/</id><summary type="html">&lt;p&gt;&lt;a href="http://urbanizedfilm.com/"&gt;&lt;/a&gt;&lt;a href="http://www.andreanicosia.net/wp-content/uploads/2013/12/1487339_642176869157506_2051276063_n.jpg"&gt;&lt;img alt="urbanized" src="http://www.andreanicosia.net/wp-content/uploads/2013/12/1487339_642176869157506_2051276063_n.jpg" title="urbanized" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://urbanizedfilm.com/"&gt;Urbanized&lt;/a&gt;&lt;/strong&gt; è un documentario realizzato
+da &lt;a href="http://urbanizedfilm.com/gary-hustwit/"&gt;Gary Hustwit&lt;/a&gt;, terza parte
+della sua trilogia dedicata al &lt;strong&gt;design&lt;/strong&gt;. Io ho realizzato i
+sottotitoli italiani.&lt;/p&gt;
+&lt;p&gt;Lunedì 16 alle 19 il documentario verrà proiettato nello spazio
+coworking &lt;a href="http://www.millepiani.eu/"&gt;&lt;strong&gt;Mille Piani&lt;/strong&gt;&lt;/a&gt;, nell'ambito del
+ciclo &lt;a href="http://www.millepiani.eu/grafilm/"&gt;Grafilm*&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se siete a Roma, vi interessate di urbanistica, spazi pubblici e vita
+nelle città e lunedì sera siete liberi, vi consiglio di venire a
+vederlo.&lt;/p&gt;
+&lt;p&gt;Tutte le info su &lt;a href="http://www.millepiani.eu/grafilm/"&gt;http://www.millepiani.eu/grafilm/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;C'è un &lt;a href="https://www.facebook.com/events/632356786810479/"&gt;evento
+Facebook&lt;/a&gt;, per vedere
+se i vostri amici ci vanno (o per invitarli a venire!)&lt;/p&gt;
+&lt;p&gt;La sinossi è&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La città è un organismo vivente, patrimonio reale di sperimentazioni
+innovative. La città si muove, la città cambia. Questo racconta
+Urbanized, il film documentario del regista newyorkese Gary Hustwit,
+ultimo capitolo sulla sua personale trilogia sul design. La città per
+il regista, non è un corpo autonomo rispetto alla società, è la
+proiezione della struttura economico-sociale sullo spazio e di quella
+stessa struttura mantiene le contraddizioni, le disuguaglianze, ma
+anche le opportunità, le ricchezze, il dinamismo economico e sociale.
+La città densa, compatta è effetto della caratteristica di
+agglomerazione. La città tradizionale aveva dunque precisi confini e
+una ben definita popolazione. Urbanized guarda con occhio sensibile e
+attento il divenire della città, la sua cinesi, il dinamismo in
+evoluzione. Diventa dunque importante guardare alla città a 360 gradi,
+studiandola ed interpretandola nelle sue caratterizzazioni sociali e
+spaziali, volgendo lo sguardo alle variabili capaci di spiegare il
+nuovo fenomeno urbano spazio-temporale, tecnologico, ai sopraggiunti
+consumi culturali, ai processi formativi, alla configurazione di
+conflitti talvolta inediti.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;E infine, ecco il link per il trailer:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://vimeo.com/65346906"&gt;Urbanized Trailer&lt;/a&gt; from &lt;a href="http://vimeo.com/user8415918"&gt;gary
+hustwit&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="città"></category><category term="design"></category><category term="urbanistica"></category></entry></feed>
