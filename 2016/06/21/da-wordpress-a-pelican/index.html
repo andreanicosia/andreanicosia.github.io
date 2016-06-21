@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="it" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
+<head>
+    <title>Una nuova vita statica per questo blog: da Wordpress a Pelican - Andrea Nicosia</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="/2016/06/21/da-wordpress-a-pelican/">
+
+        <meta name="author" content="Andrea Nicosia" />
+        <meta name="description" content="Ho seguito l&#39;esempio dei cool tech kids e ho deciso di abbandonare Wordpress per il mio sito personale. Ora andreanicosia.net E&#39; tutto in html puro - so 00s! - con una spruzzata di javascript e iframe per i servizi esterni, come gli ultimi tweet qui a destra (o qui in ..." />
+
+            <meta property="fb:app_id" content="815996675182127"/>
+        <meta property="og:site_name" content="Andrea Nicosia" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Una nuova vita statica per questo blog: da Wordpress a Pelican"/>
+        <meta property="og:url" content="/2016/06/21/da-wordpress-a-pelican/"/>
+        <meta property="og:description" content="Ho seguito l&#39;esempio dei cool tech kids e ho deciso di abbandonare Wordpress per il mio sito personale. Ora andreanicosia.net E&#39; tutto in html puro - so 00s! - con una spruzzata di javascript e iframe per i servizi esterni, come gli ultimi tweet qui a destra (o qui in ..."/>
+        <meta property="article:published_time" content="2016-06-21" />
+            <meta property="article:section" content="Progetti" />
+            <meta property="article:author" content="Andrea Nicosia" />
+
+    <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@ancos">
+        <meta name="twitter:creator" content="@ancos">
+    <meta name="twitter:domain" content="">
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+
+
+
+
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="/" class="navbar-brand">
+Andrea Nicosia            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="/pages/chi-sono.html">
+                             Chi sono
+                          </a></li>
+                         <li><a href="/pages/chiave-pgp-pubblica.html">
+                             Contatti
+                          </a></li>
+                         <li><a href="/pages/consulenza-e-design-thinking.html">
+                             Lavoro
+                          </a></li>
+                         <li><a href="/pages/corsi-e-presentazioni.html">
+                             Corsi e presentazioni
+                          </a></li>
+                         <li><a href="/pages/newsletter.html">
+                             Newsletter
+                          </a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-image:url("/images/banner.jpg");
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+		<div class="copy">
+			<h1>Andrea Nicosia</h1>
+		</div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="/2016/06/21/da-wordpress-a-pelican/"
+                       rel="bookmark"
+                       title="Permalink to Una nuova vita statica per questo blog: da Wordpress a Pelican">
+                        Una nuova vita statica per questo blog: da Wordpress a Pelican
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2016-06-21T12:00:00+02:00"> mar 21 giugno 2016</time>
+    </span>
+
+
+
+
+
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p><img alt="Screenshot" src="/images/sitoscreenshot.jpg" /></p>
+<p>Ho seguito l'esempio dei cool tech kids e ho deciso di abbandonare Wordpress per il mio sito personale.
+Ora andreanicosia.net E' tutto in html puro - so 00s! - con una spruzzata di javascript e iframe per i servizi esterni, come gli ultimi tweet qui a destra (o qui in basso se state vedendo la pagina da uno smartphone)(e se non li ho tolti). </p>
+<p>Naturalmente, siccome siamo nel 2016 e ho scritto cool <strong>tech</strong> kids, non è puro e semplice html scritto a mano. Sto usando un <strong>generatore di siti statici</strong> chiamato <a href="http://www.getpelican.com">Pelican</a>. 
+In pratica, scrivo ogni post come semplice file di testo formattato in <a href="https://daringfireball.net/projects/markdown">markdown</a> e poi uso Pelican, che non è altro che un programma scritto in Python, per mescolare file di testo e template html e generare il sito finale. Poi butto tutto sul server via FTP. In realtà quest'ultimo passaggio è automatizzabile: generazione sito e upload possono avvenire con un comando solo. Ma preferisco farlo a mano i primi tempi, per essere sicuro che tutto funzioni.</p>
+<p>Questo incidentalmente vuol dire che qua e là ci saranno pezzi di sito rotti. sistemerò. con calma. forse.  </p>
+<p>Ora, <strong>chi me l'ha fatto fare?</strong> Perché un generatore di siti statici sarebbe meglio di Wordpress? </p>
+<p>Non è che uno o l'altro sia meglio o peggio di per sé: come sempre dipende dallo scopo del sito, dalle preferenze e dal modo di lavorare di ciascuno.  </p>
+<p>I vantaggi incontrovertibili di un generatore di siti statici, Pelican o <a href="https://www.staticgen.com/">qualsiasi altro</a>, rispetto a un CMS sono due: <strong>velocità e sicurezza</strong>. Nulla batte l'html in quanto a velocità di caricamento e visualizzazione e non avere database, plugin difettosi, plugin che possono andare in conflitto tra loro riduce le possibili falle di sicurezza che può avere un sito dinamico.  </p>
+<p>Poi, per me ci sono altri fattori.  </p>
+<ol>
+<li>questo è un sito semplicissimo: Wordpress è fin troppo potente per quello che ci devo fare - e richiede troppe attenzioni con le continue richieste di aggiornamenti di plugin o sostituzione di plugin abbandonati dagli sviluppatori. Ovviamente, la complessità di Wordpress è necessaria per altri tipi di siti: <a href="http://www.magrathea.it">Magrathea</a>, ad esempio gira ancora su Wordpress.</li>
+<li>ho sempre un editor di testo aperto. Per me è più semplice e veloce scrivere in <a href="https://notepad-plus-plus.org/">Notepad++</a>, con tutte le sue macro e scorciatoie da tastiera, e poi incollare dove mi serve - PowerPoint, Word, finestra di inserimento testo di un CMS aperto in un browser - che usare un qualsiasi altro programma di scrittura. Con un generatore di siti non devo incollare: il file di testo diventa la pagina html.</li>
+<li>tutto quello che scrivo è archiviato e conservato. Qui sul mio hard disk, sul server del sito, su Dropbox, in un mirror su <a href="http://andreanicosia.github.io">Github</a>. Quindi i dati sono al sicuro. E i dati sono semplici file di testo: li potrò aprire sempre e comunque: sono <a href="http://www.magrathea.it/2008/10/29/il-medioevo-digitale-puo-cancellare-i-nostri-dati/">future proof</a> (almeno per un futuro in cui ci sarà ancora l'elettricità).</li>
+</ol>
+<p>Poi ci sono anche <a href="https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/">altre ragioni</a>, ma per me sono meno rilevanti. </p>
+<p>Ovviamente, soprattutto per quanto riguarda il secondo punto, in questo periodo di transizione, sono <em>più lento</em> nella scrittura: non mi ricordo ancora a memoria tutta la sintassi del markdown, quindi a volte devo andare a vedere come si realizzano le cose più complesse, come l'allineamento delle immagini - quando mi va, come evidentemente non per questo articolo -.
+Sulla gestione delle immagini è chiaramente più intuitivo, rapido e facile un CMS, che permette anche il ridimensionamento con il semplice trascinamento dei bordi.
+Su cose tipo grassetti, corsivo e link vince il markdown, perché si fa tutto da tastiera. Per un grassetto non devo fare altro che mettere due asterischi prima delle parole da grassettare: *<em>questo*</em> diventa <strong>questo</strong>. Un link si scrive [testo](url). Molto più facile che scrivere, mettere la mano sul mouse, selezionare e premere il pulsante per il grassetto o scrivere, mettere la mano sul mouse, selezionare, premere il pulsante per il link e scrivere o incollare l'url. Cosa più importante, è più facile nei casi in cui <strong>proprio non c'è il mouse</strong>, come quando scrivo su uno smartphone o tablet.  </p>
+<p>Naturalmente, non c'è il vantaggio di un CMS che gira su un server raggiungibile da qualsiasi parte del mondo: bisogna lavorare nella directory con i file che compongono il sito, su un PC con Python e Pelican installati. Il che vuol dire lavorare su uno specifico PC locale od organizzarsi per poter accedere a un computer remoto con i file, Python, Pelican e un sistema per spostare l'output generato da Pelican nel server web - che è quello che ho fatto io.  </p>
+<p>Il che mi porta a dire: quella del generatore di siti statici è una soluzione buona per tutti? No, bisogna avere un minimo (non tante, ma un minimo sì) di conoscenze tecniche sia in fase di installazione che in fase di gestione del sistema. Per il 90% delle persone è molto, molto, molto meglio usare un servizio tipo Blogspot, Tumblr o Wordpress.com (o Facebook!) o installarsi Wordpress su un proprio spazio.  </p>
+<p>Ci sono ancora un po' di cose da sistemare, tipo i commenti - che potrei anche non inserire mai - e imparare piano piano tutte le potenzialità di Pelican, tra cui quella interessante di poter assegnare un template a ogni pagina: permetterebbe di tornare agli albori del web quando i siti erano più <a href="https://web.archive.org/web/20010330070108/http://www.magrathea.it/">artigianali, originali e personali</a>, ma senza dover fare tutto il lavoro a mano. Un po' il movimento che ha ispirato <a href="https://neocities.org/">Neocities</a>, l'erede spirituale di Geocities (magari con meno gif animate orride).  </p>
+<p>Per ora, benvenuto nella mia nuova casa.</p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+<div id="aboutme">
+        <p>
+            <img width="100%" class="img-thumbnail" src="/images/fotoprofilo.jpg"/>
+        </p>
+    <p>
+        <strong>About Andrea Nicosia</strong><br/>
+        Humanities, technology, design: writing, tinkering and making stuff for fun & profit!
+    </p>
+</div>
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="http://it.linkedin.com/in/andreanicosia/"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></li>
+                <li class="list-group-item"><a href="https://www.facebook.com/andrea.nicosia"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                <li class="list-group-item"><a href="https://www.twitter.com/ancos"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+              </ul>
+            </li>
+
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
+                <ul class="list-group" id="recentposts">
+                    <li class="list-group-item">
+                        <a href="/2016/06/21/da-wordpress-a-pelican/">
+                            Una nuova vita statica per questo blog: da Wordpress a Pelican
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="/2016/01/12/corso-di-content-marketing-a-roma/">
+                            Corso di Content Marketing a Roma
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="/2016/01/12/corso-di-e-commerce-a-roma/">
+                            Corso di e-commerce a Roma
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="/2016/01/01/questo-non-e-il-solito-post-di-inizio-anno/">
+                            Solidarietà e algoritmi, tumblr, corsi. Questo non è il solito post di inizio anno!
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="/2015/12/18/e-e-la-scalabilita-fosse-il-nemico/">
+                            E se la scalabilità fosse il nemico?
+                        </a>
+                    </li>
+                </ul>
+            </li>
+
+
+
+
+
+    <li class="list-group-item"><h4><i class="fa fa-twitter fa-lg"></i><span class="icon-label">Latest Tweets</span></h4></li>
+    <div id="twitter_timeline">
+        <a class="twitter-timeline" data-chrome="noheader" href="https://twitter.com/ancos" data-widget-id="243697049873289216">Tweets by ancos</a>
+    </div>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2016 Andrea Nicosia
+            &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
+
+    <script src="/theme/js/bodypadding.js"></script>
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-4905603-3']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+</body>
+</html>

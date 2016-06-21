@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2016-05-25T19:37:23-00:00</lastmod>
+<lastmod>2016-06-21T13:00:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2016-05-25T19:37:23-00:00</lastmod>
+<lastmod>2016-06-21T13:00:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2016-05-25T19:37:23-00:00</lastmod>
+<lastmod>2016-06-21T13:00:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2016-05-25T19:37:23-00:00</lastmod>
+<lastmod>2016-06-21T13:00:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,6 +46,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/pages/consulenza-e-design-thinking.html</loc>
+<lastmod>2016-05-25T19:18:00+02:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/pages/corsi-e-presentazioni.html</loc>
 <lastmod>2016-05-25T19:18:00+02:00</lastmod>
 <changefreq>daily</changefreq>
@@ -56,6 +63,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>/pages/newsletter.html</loc>
 <lastmod>2015-06-08T16:12:00+02:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/2016/06/21/da-wordpress-a-pelican/</loc>
+<lastmod>2016-06-21T12:00:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/2016/01/12/corso-di-content-marketing-a-roma/</loc>
+<lastmod>2016-01-12T11:07:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -803,7 +824,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/progetti.html</loc>
-<lastmod>2015-08-09T11:08:00+00:50</lastmod>
+<lastmod>2016-06-21T12:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -839,6 +860,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/tag/urbanistica.html</loc>
 <lastmod>2013-12-30T16:05:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/digital-storytelling.html</loc>
+<lastmod>2012-02-10T16:56:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1019,8 +1047,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/tag/digital-storytelling.html</loc>
-<lastmod>2012-02-10T16:56:00+00:50</lastmod>
+<loc>/tag/marketing.html</loc>
+<lastmod>2015-10-07T18:32:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1061,8 +1089,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/tag/marketing.html</loc>
-<lastmod>2015-10-07T18:32:00+00:50</lastmod>
+<loc>/tag/content-marketing.html</loc>
+<lastmod>2016-01-12T11:07:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1217,6 +1245,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/author/admin.html</loc>
 <lastmod>2016-01-12T11:07:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/author/andrea.html</loc>
+<lastmod>2016-01-12T11:07:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/author/andrea-nicosia.html</loc>
+<lastmod>2016-06-21T12:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
